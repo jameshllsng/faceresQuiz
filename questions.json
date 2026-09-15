@@ -1,0 +1,965 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "ciencias-001",
+      "category": "Ciências",
+      "question": "Qual organela celular é responsável pela maior parte da produção de ATP?",
+      "answer": "Mitocôndria",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "ciencias-002",
+      "category": "Ciências",
+      "question": "Qual molécula armazena a informação genética na maioria dos seres vivos?",
+      "answer": "DNA",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "ciencias-003",
+      "category": "Ciências",
+      "question": "Qual gás é absorvido pelas plantas durante a fotossíntese?",
+      "answer": "Dióxido de carbono",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "ciencias-004",
+      "category": "Ciências",
+      "question": "Qual componente do sangue transporta principalmente o oxigênio?",
+      "answer": "Hemácias",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "ciencias-005",
+      "category": "Ciências",
+      "question": "Qual órgão humano produz a insulina?",
+      "answer": "Pâncreas",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "ciencias-006",
+      "category": "Ciências",
+      "question": "Qual é a unidade básica estrutural e funcional dos seres vivos?",
+      "answer": "Célula",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "ciencias-007",
+      "category": "Ciências",
+      "question": "Qual estrutura celular controla a entrada e a saída de substâncias?",
+      "answer": "Membrana plasmática",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "ciencias-008",
+      "category": "Ciências",
+      "question": "Como é chamado o processo de divisão celular que origina duas células geneticamente semelhantes?",
+      "answer": "Mitose",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "ciencias-009",
+      "category": "Ciências",
+      "question": "Qual pigmento das plantas participa diretamente da absorção de luz na fotossíntese?",
+      "answer": "Clorofila",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "ciencias-010",
+      "category": "Ciências",
+      "question": "Qual parte do sistema nervoso central conecta o encéfalo ao restante do corpo?",
+      "answer": "Medula espinhal",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "ciencias-011",
+      "category": "Ciências",
+      "question": "Qual tipo de ligação química envolve o compartilhamento de elétrons?",
+      "answer": "Ligação covalente",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "ciencias-012",
+      "category": "Ciências",
+      "question": "Qual escala mede a acidez ou basicidade de uma solução?",
+      "answer": "Escala de pH",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "ciencias-013",
+      "category": "Ciências",
+      "question": "Qual estrutura do néfron realiza a filtração inicial do sangue?",
+      "answer": "Glomérulo",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "ciencias-014",
+      "category": "Ciências",
+      "question": "Qual enzima presente na saliva inicia a digestão do amido?",
+      "answer": "Amilase salivar",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "ciencias-015",
+      "category": "Ciências",
+      "question": "Qual processo celular produz gametas com metade do número de cromossomos?",
+      "answer": "Meiose",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "ciencias-016",
+      "category": "Ciências",
+      "question": "Em qual estrutura dos cloroplastos ocorre a fase luminosa da fotossíntese?",
+      "answer": "Tilacoides",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "ciencias-017",
+      "category": "Ciências",
+      "question": "Qual hormônio aumenta a glicemia ao estimular a liberação de glicose pelo fígado?",
+      "answer": "Glucagon",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "ciencias-018",
+      "category": "Ciências",
+      "question": "Qual estrutura do DNA é formada pela associação entre uma base nitrogenada, uma pentose e um fosfato?",
+      "answer": "Nucleotídeo",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "ciencias-019",
+      "category": "Ciências",
+      "question": "Qual tipo sanguíneo do sistema ABO não possui antígenos A nem B nas hemácias?",
+      "answer": "Tipo O",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "ciencias-020",
+      "category": "Ciências",
+      "question": "Qual estrutura do sistema respiratório é o principal local das trocas gasosas?",
+      "answer": "Alvéolos pulmonares",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "cultura-001",
+      "category": "Cultura",
+      "question": "Qual banda britânica lançou o álbum The Dark Side of the Moon?",
+      "answer": "Pink Floyd",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "cultura-002",
+      "category": "Cultura",
+      "question": "Qual personagem é conhecido como o Homem-Morcego?",
+      "answer": "Batman",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "cultura-003",
+      "category": "Cultura",
+      "question": "Em qual saga aparece a escola de magia Hogwarts?",
+      "answer": "Harry Potter",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "cultura-004",
+      "category": "Cultura",
+      "question": "Qual banda gravou a música Bohemian Rhapsody?",
+      "answer": "Queen",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "cultura-005",
+      "category": "Cultura",
+      "question": "Qual herói da Marvel utiliza um escudo com uma estrela como arma característica?",
+      "answer": "Capitão América",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "cultura-006",
+      "category": "Cultura",
+      "question": "Qual filme apresenta o personagem Jack Sparrow?",
+      "answer": "Piratas do Caribe",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "cultura-007",
+      "category": "Cultura",
+      "question": "Qual banda tinha John Lennon, Paul McCartney, George Harrison e Ringo Starr?",
+      "answer": "The Beatles",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "cultura-008",
+      "category": "Cultura",
+      "question": "Quem dirigiu os filmes Titanic e Avatar?",
+      "answer": "James Cameron",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "cultura-009",
+      "category": "Cultura",
+      "question": "Qual compositor escreveu a Nona Sinfonia e ficou surdo durante a vida?",
+      "answer": "Ludwig van Beethoven",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "cultura-010",
+      "category": "Cultura",
+      "question": "Qual banda lançou o álbum Nevermind em 1991?",
+      "answer": "Nirvana",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "cultura-011",
+      "category": "Cultura",
+      "question": "Qual cineasta dirigiu Pulp Fiction e Kill Bill?",
+      "answer": "Quentin Tarantino",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "cultura-012",
+      "category": "Cultura",
+      "question": "Qual personagem de Star Wars é pai de Luke Skywalker?",
+      "answer": "Darth Vader",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "cultura-013",
+      "category": "Cultura",
+      "question": "Qual banda lançou o álbum Californication em 1999?",
+      "answer": "Red Hot Chili Peppers",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "cultura-014",
+      "category": "Cultura",
+      "question": "Qual diretor é responsável pela trilogia cinematográfica O Senhor dos Anéis?",
+      "answer": "Peter Jackson",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "cultura-015",
+      "category": "Cultura",
+      "question": "Qual movimento musical brasileiro reuniu artistas como Caetano Veloso e Gilberto Gil no fim da década de 1960?",
+      "answer": "Tropicália",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "cultura-016",
+      "category": "Cultura",
+      "question": "Qual cineasta japonês dirigiu Os Sete Samurais?",
+      "answer": "Akira Kurosawa",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "cultura-017",
+      "category": "Cultura",
+      "question": "Qual banda lançou o álbum Disintegration em 1989?",
+      "answer": "The Cure",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "cultura-018",
+      "category": "Cultura",
+      "question": "Qual compositor brasileiro escreveu a obra Bachianas Brasileiras?",
+      "answer": "Heitor Villa-Lobos",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "cultura-019",
+      "category": "Cultura",
+      "question": "Qual filme de 1927 é considerado um marco do cinema expressionista alemão e apresenta a cidade futurista de mesmo nome?",
+      "answer": "Metrópolis",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "cultura-020",
+      "category": "Cultura",
+      "question": "Qual gênero musical surgiu na Jamaica no final da década de 1960 e ficou associado a Bob Marley?",
+      "answer": "Reggae",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "esportes-001",
+      "category": "Esportes",
+      "question": "Qual órgão é responsável por bombear sangue para os músculos durante uma atividade física?",
+      "answer": "Coração",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "esportes-002",
+      "category": "Esportes",
+      "question": "Qual sistema do corpo transporta oxigênio e nutrientes durante o exercício?",
+      "answer": "Sistema circulatório",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "esportes-003",
+      "category": "Esportes",
+      "question": "Qual músculo localizado na parte anterior da coxa participa da extensão do joelho?",
+      "answer": "Quadríceps",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "esportes-004",
+      "category": "Esportes",
+      "question": "Qual mineral é importante para a formação e manutenção dos ossos?",
+      "answer": "Cálcio",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "esportes-005",
+      "category": "Esportes",
+      "question": "Qual substância é perdida em grande quantidade pelo suor durante exercícios intensos?",
+      "answer": "Água",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "esportes-006",
+      "category": "Esportes",
+      "question": "Qual articulação conecta o fêmur à tíbia?",
+      "answer": "Joelho",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "esportes-007",
+      "category": "Esportes",
+      "question": "Como é chamada a frequência de batimentos do coração por minuto?",
+      "answer": "Frequência cardíaca",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "esportes-008",
+      "category": "Esportes",
+      "question": "Qual tecido conecta os músculos aos ossos?",
+      "answer": "Tendão",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "esportes-009",
+      "category": "Esportes",
+      "question": "Qual tecido conecta um osso a outro em uma articulação?",
+      "answer": "Ligamento",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "esportes-010",
+      "category": "Esportes",
+      "question": "Qual molécula funciona como principal fonte imediata de energia para a contração muscular?",
+      "answer": "ATP",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "esportes-011",
+      "category": "Esportes",
+      "question": "Qual tipo de fibra muscular apresenta maior resistência à fadiga?",
+      "answer": "Fibras do tipo I",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "esportes-012",
+      "category": "Esportes",
+      "question": "Qual proteína muscular se liga ao cálcio para iniciar a contração muscular?",
+      "answer": "Troponina",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "esportes-013",
+      "category": "Esportes",
+      "question": "Qual estrutura do sistema respiratório permite a passagem do oxigênio para o sangue?",
+      "answer": "Alvéolos pulmonares",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "esportes-014",
+      "category": "Esportes",
+      "question": "Como é chamada uma lesão causada pelo estiramento ou rompimento de ligamentos?",
+      "answer": "Entorse",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "esportes-015",
+      "category": "Esportes",
+      "question": "Qual eletrólito perdido no suor participa da transmissão de impulsos nervosos e do equilíbrio de líquidos?",
+      "answer": "Sódio",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "esportes-016",
+      "category": "Esportes",
+      "question": "Qual sistema energético utiliza predominantemente oxigênio para produzir ATP em exercícios prolongados?",
+      "answer": "Sistema aeróbio",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "esportes-017",
+      "category": "Esportes",
+      "question": "Qual estrutura localizada no joelho ajuda a absorver impactos entre o fêmur e a tíbia?",
+      "answer": "Menisco",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "esportes-018",
+      "category": "Esportes",
+      "question": "Qual hormônio aumenta a frequência cardíaca em situações de esforço intenso?",
+      "answer": "Adrenalina",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "esportes-019",
+      "category": "Esportes",
+      "question": "Qual substância presente nas hemácias se liga ao oxigênio para transportá-lo pelo corpo?",
+      "answer": "Hemoglobina",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "esportes-020",
+      "category": "Esportes",
+      "question": "Qual termo descreve o aumento do tamanho das fibras musculares provocado pelo treinamento?",
+      "answer": "Hipertrofia muscular",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "historia-001",
+      "category": "História",
+      "question": "Em que ano ocorreu a Independência do Brasil?",
+      "answer": "1822",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "historia-002",
+      "category": "História",
+      "question": "Quem proclamou a Independência do Brasil?",
+      "answer": "Dom Pedro I",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "historia-003",
+      "category": "História",
+      "question": "Qual civilização construiu as pirâmides de Gizé?",
+      "answer": "Civilização egípcia",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "historia-004",
+      "category": "História",
+      "question": "Em qual continente surgiu a civilização romana?",
+      "answer": "Europa",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "historia-005",
+      "category": "História",
+      "question": "Qual país iniciou a Revolução Industrial no século XVIII?",
+      "answer": "Inglaterra",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "historia-006",
+      "category": "História",
+      "question": "Em que ano terminou a Segunda Guerra Mundial?",
+      "answer": "1945",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "historia-007",
+      "category": "História",
+      "question": "Qual evento ocorrido em 1789 simbolizou o início da Revolução Francesa?",
+      "answer": "Queda da Bastilha",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "historia-008",
+      "category": "História",
+      "question": "Qual lei aboliu oficialmente a escravidão no Brasil?",
+      "answer": "Lei Áurea",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "historia-009",
+      "category": "História",
+      "question": "Quem assinou a Lei Áurea em 1888?",
+      "answer": "Princesa Isabel",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "historia-010",
+      "category": "História",
+      "question": "Qual império tinha Constantinopla como capital?",
+      "answer": "Império Bizantino",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "historia-011",
+      "category": "História",
+      "question": "Qual tratado encerrou oficialmente a Primeira Guerra Mundial entre a Alemanha e as potências aliadas?",
+      "answer": "Tratado de Versalhes",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "historia-012",
+      "category": "História",
+      "question": "Como ficou conhecido o período de rivalidade entre Estados Unidos e União Soviética após a Segunda Guerra Mundial?",
+      "answer": "Guerra Fria",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "historia-013",
+      "category": "História",
+      "question": "Qual cidade romana foi soterrada pela erupção do Vesúvio no ano 79?",
+      "answer": "Pompeia",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "historia-014",
+      "category": "História",
+      "question": "Qual movimento europeu dos séculos XV e XVI valorizou a cultura clássica e o humanismo?",
+      "answer": "Renascimento",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "historia-015",
+      "category": "História",
+      "question": "Qual documento inglês de 1215 limitou o poder do rei João?",
+      "answer": "Magna Carta",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "historia-016",
+      "category": "História",
+      "question": "Qual revolta ocorrida em Minas Gerais no século XVIII teve Tiradentes como seu participante mais conhecido?",
+      "answer": "Inconfidência Mineira",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "historia-017",
+      "category": "História",
+      "question": "Qual dinastia governava a França no início da Revolução Francesa?",
+      "answer": "Dinastia Bourbon",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "historia-018",
+      "category": "História",
+      "question": "Qual povo da Mesopotâmia é associado ao Código de Hamurábi?",
+      "answer": "Babilônios",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "historia-019",
+      "category": "História",
+      "question": "Qual sistema econômico colonial obrigava as colônias a priorizar o comércio com suas metrópoles?",
+      "answer": "Pacto colonial",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "historia-020",
+      "category": "História",
+      "question": "Qual conferência realizada em 1884 e 1885 estabeleceu regras para a ocupação europeia da África?",
+      "answer": "Conferência de Berlim",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "artes-001",
+      "category": "Artes",
+      "question": "Quem pintou a Mona Lisa?",
+      "answer": "Leonardo da Vinci",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "artes-002",
+      "category": "Artes",
+      "question": "Quem pintou A Noite Estrelada?",
+      "answer": "Vincent van Gogh",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "artes-003",
+      "category": "Artes",
+      "question": "Quem pintou a obra Abaporu?",
+      "answer": "Tarsila do Amaral",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "artes-004",
+      "category": "Artes",
+      "question": "Qual artista espanhol pintou Guernica?",
+      "answer": "Pablo Picasso",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "artes-005",
+      "category": "Artes",
+      "question": "Qual artista renascentista esculpiu a estátua de Davi em mármore localizada em Florença?",
+      "answer": "Michelangelo",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "artes-006",
+      "category": "Artes",
+      "question": "Qual movimento artístico é associado a Claude Monet?",
+      "answer": "Impressionismo",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "artes-007",
+      "category": "Artes",
+      "question": "Qual movimento artístico utilizou formas geométricas e múltiplos pontos de vista simultaneamente?",
+      "answer": "Cubismo",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "artes-008",
+      "category": "Artes",
+      "question": "Qual evento de 1922 marcou o modernismo brasileiro?",
+      "answer": "Semana de Arte Moderna",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "artes-009",
+      "category": "Artes",
+      "question": "Em qual cidade ocorreu a Semana de Arte Moderna de 1922?",
+      "answer": "São Paulo",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "artes-010",
+      "category": "Artes",
+      "question": "Qual pintor brasileiro é conhecido pelas obras O Lavrador de Café e Retirantes?",
+      "answer": "Candido Portinari",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "artes-011",
+      "category": "Artes",
+      "question": "Qual movimento artístico do início do século XX valorizava velocidade, máquinas e tecnologia?",
+      "answer": "Futurismo",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "artes-012",
+      "category": "Artes",
+      "question": "Qual movimento artístico teve Salvador Dalí como um de seus principais representantes?",
+      "answer": "Surrealismo",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "artes-013",
+      "category": "Artes",
+      "question": "Qual artista criou a escultura O Pensador?",
+      "answer": "Auguste Rodin",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "artes-014",
+      "category": "Artes",
+      "question": "Qual técnica artística consiste em aplicar pigmentos sobre uma camada de reboco ainda úmida?",
+      "answer": "Afresco",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "artes-015",
+      "category": "Artes",
+      "question": "Qual artista norueguês pintou O Grito?",
+      "answer": "Edvard Munch",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "artes-016",
+      "category": "Artes",
+      "question": "Qual movimento artístico europeu dos séculos XVII e XVIII é marcado por dramaticidade e ornamentação?",
+      "answer": "Barroco",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "artes-017",
+      "category": "Artes",
+      "question": "Qual artista brasileiro é conhecido pelas esculturas dos profetas em Congonhas?",
+      "answer": "Aleijadinho",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "artes-018",
+      "category": "Artes",
+      "question": "Qual movimento artístico surgiu em Zurique durante a Primeira Guerra Mundial e questionava os padrões tradicionais da arte?",
+      "answer": "Dadaísmo",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "artes-019",
+      "category": "Artes",
+      "question": "Qual técnica de gravura utiliza uma matriz de madeira?",
+      "answer": "Xilogravura",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "artes-020",
+      "category": "Artes",
+      "question": "Qual estilo artístico e arquitetônico medieval é caracterizado por arcos ogivais e grandes vitrais?",
+      "answer": "Gótico",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-001",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Quem escreveu Dom Casmurro?",
+      "answer": "Machado de Assis",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-002",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Quem escreveu O Cortiço?",
+      "answer": "Aluísio Azevedo",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-003",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Quem escreveu Vidas Secas?",
+      "answer": "Graciliano Ramos",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-004",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Qual classe gramatical caracteriza ou atribui qualidade a um substantivo?",
+      "answer": "Adjetivo",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-005",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Qual figura de linguagem estabelece uma comparação implícita entre elementos?",
+      "answer": "Metáfora",
+      "difficulty": "Fácil",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-006",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Como é chamado o sujeito que não aparece escrito, mas pode ser identificado pela forma verbal?",
+      "answer": "Sujeito oculto",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-007",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Qual movimento literário brasileiro teve Machado de Assis como seu principal representante?",
+      "answer": "Realismo",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-008",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Quem escreveu Iracema?",
+      "answer": "José de Alencar",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-009",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Quem escreveu Os Lusíadas?",
+      "answer": "Luís de Camões",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-010",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Qual figura de linguagem atribui características humanas a seres não humanos?",
+      "answer": "Personificação",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-011",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Qual figura de linguagem consiste na repetição de sons consonantais?",
+      "answer": "Aliteração",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-012",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Qual escola literária brasileira é representada por autores como Castro Alves e José de Alencar?",
+      "answer": "Romantismo",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-013",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Quem escreveu Macunaíma?",
+      "answer": "Mário de Andrade",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-014",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Qual função da linguagem é predominante quando a mensagem busca convencer ou influenciar o receptor?",
+      "answer": "Função conativa",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-015",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Qual termo da oração completa o sentido de um verbo transitivo direto sem preposição obrigatória?",
+      "answer": "Objeto direto",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-016",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Qual movimento literário brasileiro teve como marco inicial a publicação de Memórias Póstumas de Brás Cubas?",
+      "answer": "Realismo",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-017",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Qual figura de linguagem utiliza uma expressão mais suave para substituir outra considerada desagradável ou chocante?",
+      "answer": "Eufemismo",
+      "difficulty": "Média",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-018",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Quem escreveu Grande Sertão: Veredas?",
+      "answer": "João Guimarães Rosa",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-019",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Qual escola literária brasileira do final do século XIX valorizava a descrição objetiva e ideias deterministas?",
+      "answer": "Naturalismo",
+      "difficulty": "Difícil",
+      "active": true
+    },
+    {
+      "id": "lingua-portuguesa-literatura-020",
+      "category": "Língua Portuguesa/ Literatura",
+      "question": "Qual termo da oração indica uma circunstância, como tempo, lugar, modo ou intensidade?",
+      "answer": "Adjunto adverbial",
+      "difficulty": "Difícil",
+      "active": true
+    }
+  ]
+}

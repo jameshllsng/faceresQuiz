@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">FACERES Quiz</title>
+  <rect width="512" height="512" rx="108" fill="#c51d37" />
+  <path d="M111 104h290v74H196v55h174v72H196v103h-85V104Z" fill="#fff" />
+  <circle cx="393" cy="383" r="55" fill="#ffc52f" />
+  <path d="m367 383 18 18 35-42" fill="none" stroke="#861126" stroke-linecap="round" stroke-linejoin="round" stroke-width="15" />
+</svg>
