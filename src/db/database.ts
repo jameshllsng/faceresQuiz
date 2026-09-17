@@ -1,5 +1,5 @@
-const DATABASE_NAME = 'faceres-quiz'
 const DATABASE_VERSION = 1
+let databaseName: string | null = null
 
 export const STORE_NAMES = {
   questions: 'questions',
@@ -7,6 +7,18 @@ export const STORE_NAMES = {
   roundQuestions: 'roundQuestions',
   scoreEvents: 'scoreEvents',
 } as const
+
+export function configureDatabase(name: string): void {
+  databaseName = name
+}
+
+function getDatabaseName(): string {
+  if (!databaseName) {
+    throw new Error('Local database was not configured.')
+  }
+
+  return databaseName
+}
 
 export function requestToPromise<T>(request: IDBRequest<T>): Promise<T> {
   return new Promise((resolve, reject) => {
@@ -101,7 +113,7 @@ export function openDatabase(): Promise<IDBDatabase> {
   }
 
   return new Promise((resolve, reject) => {
-    const request = window.indexedDB.open(DATABASE_NAME, DATABASE_VERSION)
+    const request = window.indexedDB.open(getDatabaseName(), DATABASE_VERSION)
 
     request.onerror = () => {
       reject(request.error ?? new Error('Unable to open the local database.'))

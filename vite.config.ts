@@ -1,22 +1,23 @@
 import { defineConfig } from 'vite'
 import { VitePWA } from 'vite-plugin-pwa'
+import { distributionConfig } from './src/distributions/faceres/config.ts'
 
 export default defineConfig({
   plugins: [
     VitePWA({
       registerType: 'autoUpdate',
       manifest: {
-        name: 'FACERES Quiz',
-        short_name: 'FACERES Quiz',
-        description: 'Quiz de gincana da FACERES para uso em sala.',
+        name: distributionConfig.productName,
+        short_name: distributionConfig.productName,
+        description: distributionConfig.pwa.description,
         lang: 'pt-BR',
-        theme_color: '#c51d37',
+        theme_color: distributionConfig.theme.primary,
         background_color: '#fff8f5',
         display: 'fullscreen',
         start_url: '/',
         icons: [
           {
-            src: 'faceres-quiz-icon.svg',
+            src: distributionConfig.pwa.icon,
             sizes: 'any',
             type: 'image/svg+xml',
             purpose: 'any maskable',

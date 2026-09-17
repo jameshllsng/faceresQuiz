@@ -35,13 +35,18 @@ As ações de pontuação exigem confirmação. O sistema destaca visualmente si
 
 ```text
 src/
-  db/           # abertura e estrutura do IndexedDB
-  services/     # regras de perguntas, rodadas e validação de JSON
-  types/        # contratos e modelos TypeScript
-  main.ts       # fluxo e renderização da interface
-  style.css     # identidade visual, animações e responsividade
+  core/                         # contratos independentes de distribuição
+  distributions/
+    faceres/                    # configuração e identidade da distribuição
+  db/                           # abertura e estrutura do IndexedDB
+  services/                     # regras genéricas de perguntas e rodadas
+  types/                        # contratos e modelos TypeScript
+  main.ts                       # composição da aplicação FACERES
+  style.css                     # identidade visual, animações e responsividade
 public/         # arquivos públicos e ícone do PWA
 ```
+
+O projeto trata a FACERES como a primeira distribuição da JamSoftwares Quiz Platform. A configuração centraliza identidade, versão, PWA, tema e armazenamento local, preparando o código para outras distribuições sem alterar o núcleo do quiz.
 
 ## Stack
 
