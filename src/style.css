@@ -30,6 +30,21 @@ body {
   margin: 0;
 }
 
+.powered-by {
+  position: fixed;
+  z-index: 20;
+  bottom: 0.5rem;
+  left: 0.75rem;
+  margin: 0;
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+  color: var(--muted-ink);
+  background: rgb(255 248 245 / 88%);
+  font-size: 0.7rem;
+  font-weight: 700;
+  pointer-events: none;
+}
+
 .startup-screen {
   display: grid;
   min-height: 100vh;
@@ -292,6 +307,33 @@ h1 {
   margin-top: 0.75rem;
 }
 
+.about-card__details {
+  display: grid;
+  gap: 0.75rem;
+  margin: 1.5rem 0 0;
+}
+
+.about-card__details div {
+  padding: 0.85rem 1rem;
+  border: 2px solid #f0b5bf;
+  border-radius: 1rem;
+  background: #fffaf7;
+}
+
+.about-card__details dt {
+  color: var(--muted-ink);
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.about-card__details dd {
+  margin: 0.25rem 0 0;
+  color: var(--ink);
+  font-weight: 800;
+}
+
 .history-list,
 .history-question-list {
   display: grid;
@@ -421,16 +463,16 @@ h1 {
 .theme-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.9rem;
-  margin-top: 0.75rem;
+  gap: 0.7rem;
+  margin-top: 0.6rem;
 }
 
 .theme-card {
   display: grid;
   grid-template-rows: minmax(0, 1fr) auto;
-  min-height: 9.5rem;
-  gap: 0.5rem;
-  padding: 1rem;
+  min-height: 7.75rem;
+  gap: 0.35rem;
+  padding: 0.85rem 1rem;
   border: 0.2rem solid #f0aab6;
   border-radius: 1.25rem;
   color: var(--faceres-red-dark);
@@ -476,10 +518,10 @@ h1 {
 }
 
 .theme-card > span {
-  font-size: clamp(1.7rem, 5vw, 2.3rem);
+  font-size: clamp(1.55rem, 4.5vw, 2rem);
   line-height: 1.1;
-  overflow-wrap: anywhere;
-  hyphens: auto;
+  overflow-wrap: normal;
+  hyphens: none;
 }
 
 .theme-screen #theme-error:empty {
@@ -519,7 +561,7 @@ h1 {
 
 .new-round-button {
   width: 100%;
-  margin-top: 1.25rem;
+  margin-top: 0.85rem;
 }
 
 .reset-button {
@@ -831,11 +873,6 @@ h1 {
 }
 
 @media (max-width: 480px) {
-  .round-name-selection__content {
-    align-items: flex-start;
-    flex-direction: column;
-  }
-
   .secondary-button {
     width: 100%;
   }
@@ -878,12 +915,12 @@ h1 {
   }
 
   .theme-grid {
-    gap: 1.15rem;
+    gap: 0.75rem;
   }
 
   .theme-card {
-    min-height: clamp(11rem, 19vh, 13rem);
-    padding: 1.25rem;
+    min-height: clamp(7.75rem, 12.5vh, 8.5rem);
+    padding: 0.9rem 1rem;
   }
 
   .question-card {
@@ -902,7 +939,7 @@ h1 {
 
   .round-with-score .round-card,
   .score-bar {
-    width: min(100%, 64rem);
+    width: min(100%, 76rem);
   }
 
   .round-card {
@@ -923,19 +960,19 @@ h1 {
   }
 
   .theme-grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 0.7rem;
-    margin-top: 0.85rem;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0.65rem;
+    margin-top: 0.6rem;
   }
 
   .theme-card {
-    min-height: 11rem;
-    gap: 0.35rem;
-    padding: 1.2rem;
+    min-height: 7.4rem;
+    gap: 0.25rem;
+    padding: 0.8rem 0.9rem;
   }
 
   .theme-card > span {
-    font-size: clamp(1.7rem, 3.5vw, 2.2rem);
+    font-size: clamp(1.45rem, 2.6vw, 1.85rem);
   }
 
   .new-round-button {
@@ -967,7 +1004,12 @@ h1 {
 
 @media (orientation: landscape) and (min-width: 900px) {
   .theme-grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .theme-card {
+    min-height: 7.6rem;
+    padding-inline: 1rem;
   }
 }
 

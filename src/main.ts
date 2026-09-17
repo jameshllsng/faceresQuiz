@@ -1,5 +1,6 @@
 import './style.css'
-import { openDatabase } from './db/database'
+import { configureDatabase, openDatabase } from './db/database'
+import { distributionConfig } from './distributions/faceres/config'
 import { readQuestionFile } from './services/question-file'
 import {
   getActiveQuestionCount,
@@ -35,10 +36,34 @@ if (!app) {
 
 const appRoot = app
 
+configureDatabase(distributionConfig.storage.databaseName)
+document.title = distributionConfig.productName
+document.documentElement.style.setProperty(
+  '--faceres-red',
+  distributionConfig.theme.primary,
+)
+document.documentElement.style.setProperty(
+  '--faceres-red-dark',
+  distributionConfig.theme.primaryDark,
+)
+document.documentElement.style.setProperty(
+  '--faceres-red-soft',
+  distributionConfig.theme.primarySoft,
+)
+document.documentElement.style.setProperty(
+  '--challenge-yellow',
+  distributionConfig.theme.accent,
+)
+
+const poweredBy = document.createElement('p')
+poweredBy.className = 'powered-by'
+poweredBy.textContent = `Powered by ${distributionConfig.poweredBy}`
+document.body.append(poweredBy)
+
 appRoot.innerHTML = `
   <main class="startup-screen" aria-live="polite">
-    <p class="startup-screen__label">FACERES</p>
-    <h1>Quiz</h1>
+    <p class="startup-screen__label">${distributionConfig.institution}</p>
+    <h1>${distributionConfig.productName.replace(`${distributionConfig.institution} `, '')}</h1>
     <p id="startup-status">Preparando o quiz...</p>
   </main>
 `
@@ -132,6 +157,33 @@ function getDifficultyClass(difficulty: Difficulty): string {
   return difficultyClasses[difficulty]
 }
 
+function renderAbout(): void {
+  appRoot.innerHTML = `
+    <main class="round-start">
+      <div class="screen-top-actions">${renderFullscreenButton()}</div>
+      <section class="round-card about-card" aria-labelledby="about-title">
+        <p class="round-card__label">${distributionConfig.productName.toUpperCase()}</p>
+        <h1 id="about-title">Sobre</h1>
+        <dl class="about-card__details">
+          <div><dt>Distribuição</dt><dd>${distributionConfig.institution}</dd></div>
+          <div><dt>Versão</dt><dd>${distributionConfig.version}</dd></div>
+          <div><dt>Plataforma</dt><dd>${distributionConfig.poweredBy} Quiz Platform</dd></div>
+          <div><dt>Desenvolvido por</dt><dd>Luís Miguel Sandrin Cardoso</dd></div>
+        </dl>
+        <button id="close-about" class="secondary-button history-button" type="button">Voltar</button>
+      </section>
+    </main>
+  `
+
+  document
+    .querySelector<HTMLButtonElement>('#close-about')
+    ?.addEventListener('click', () => {
+      void renderRoundStart()
+    })
+
+  attachFullscreenListener()
+}
+
 async function renderHistory(): Promise<void> {
   const rounds = await getFinishedRounds()
 
@@ -139,7 +191,7 @@ async function renderHistory(): Promise<void> {
     <main class="round-start">
       <div class="screen-top-actions">${renderFullscreenButton()}</div>
       <section class="round-card" aria-labelledby="history-title">
-        <p class="round-card__label">FACERES QUIZ</p>
+        <p class="round-card__label">${distributionConfig.productName.toUpperCase()}</p>
         <h1 id="history-title">Histórico</h1>
         ${
           rounds.length === 0
@@ -245,7 +297,7 @@ async function renderRoundStart(): Promise<void> {
     <main class="round-start">
       <div class="screen-top-actions">${renderFullscreenButton()}</div>
       <section class="round-card" aria-labelledby="round-title">
-        <p class="round-card__label">FACERES QUIZ</p>
+        <p class="round-card__label">${distributionConfig.productName.toUpperCase()}</p>
         <h1 id="round-title">Iniciar rodada</h1>
         <p class="round-card__description">A roleta escolhe o tema. Você conduz o desafio.</p>
         <form id="round-form" class="round-form">
@@ -253,12 +305,7 @@ async function renderRoundStart(): Promise<void> {
             <span class="round-name-selection__label">Rodada selecionada</span>
             <div class="round-name-selection__content">
               <strong>${defaultRoundName}</strong>
-              <button id="edit-round-name" class="secondary-button" type="button">Alterar nome</button>
             </div>
-          </div>
-          <div id="round-name-editor" hidden>
-            <label for="round-name">Novo nome da sala ou rodada</label>
-            <input id="round-name" name="round-name" type="text" autocomplete="off" maxlength="80" value="${defaultRoundName}" />
           </div>
           <section class="question-status" aria-labelledby="question-status-title">
             <button id="import-questions" class="secondary-button" type="button">Atualizar perguntas</button>
@@ -271,13 +318,13 @@ async function renderRoundStart(): Promise<void> {
           ${hasQuestions ? '' : '<p class="round-form__help">Importe perguntas para começar o desafio.</p>'}
           ${finishedRounds.length > 0 ? '<button id="view-history" class="secondary-button history-button" type="button">Ver histórico</button>' : ''}
           ${finishedRounds.length > 0 ? '<button id="reset-quiz" class="secondary-button reset-button" type="button">Resetar quiz</button>' : ''}
+          <button id="view-about" class="secondary-button history-button" type="button">Sobre</button>
         </form>
       </section>
     </main>
   `
 
   const form = document.querySelector<HTMLFormElement>('#round-form')
-  const input = document.querySelector<HTMLInputElement>('#round-name')
   const error = document.querySelector<HTMLParagraphElement>('#round-error')
   const importError = document.querySelector<HTMLParagraphElement>(
     '#question-file-error',
@@ -285,34 +332,13 @@ async function renderRoundStart(): Promise<void> {
   const submitButton = document.querySelector<HTMLButtonElement>(
     '#round-form button[type="submit"]',
   )
-  const editButton =
-    document.querySelector<HTMLButtonElement>('#edit-round-name')
-  const editor = document.querySelector<HTMLDivElement>('#round-name-editor')
   const importButton =
     document.querySelector<HTMLButtonElement>('#import-questions')
   const fileInput = document.querySelector<HTMLInputElement>('#questions-file')
   const historyButton =
     document.querySelector<HTMLButtonElement>('#view-history')
   const resetButton = document.querySelector<HTMLButtonElement>('#reset-quiz')
-  let isEditingName = false
-
-  editButton?.addEventListener('click', () => {
-    isEditingName = !isEditingName
-
-    if (editor) {
-      editor.hidden = !isEditingName
-    }
-
-    if (editButton) {
-      editButton.textContent = isEditingName
-        ? `Usar ${defaultRoundName}`
-        : 'Alterar nome'
-    }
-
-    if (isEditingName) {
-      input?.focus()
-    }
-  })
+  const aboutButton = document.querySelector<HTMLButtonElement>('#view-about')
 
   importButton?.addEventListener('click', () => {
     fileInput?.click()
@@ -363,6 +389,10 @@ async function renderRoundStart(): Promise<void> {
     renderResetConfirmation()
   })
 
+  aboutButton?.addEventListener('click', () => {
+    renderAbout()
+  })
+
   attachFullscreenListener()
 
   form?.addEventListener('submit', (event) => {
@@ -374,9 +404,7 @@ async function renderRoundStart(): Promise<void> {
       }
 
       try {
-        const round = await startRound(
-          isEditingName ? (input?.value ?? '') : defaultRoundName,
-        )
+        const round = await startRound(defaultRoundName)
         await renderThemeSelection(round)
       } catch (exception: unknown) {
         if (error) {
@@ -852,7 +880,10 @@ async function initializeApplication(): Promise<void> {
 }
 
 void initializeApplication().catch((error: unknown) => {
-  console.error('Unable to initialize FACERES Quiz.', error)
+  console.error(
+    `Unable to initialize ${distributionConfig.productName}.`,
+    error,
+  )
 
   if (status) {
     status.textContent =

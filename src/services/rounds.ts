@@ -40,20 +40,20 @@ export async function getSuggestedRoundName(): Promise<string> {
   const store = transaction.objectStore(STORE_NAMES.rounds)
   const rounds = await requestToPromise(store.getAll() as IDBRequest<Round[]>)
   const highestRoomNumber = rounds.reduce((highest, round) => {
-    const match = /^sala\s+(\d+)$/i.exec(round.name.trim())
+    const match = /^turma\s+(\d+)$/i.exec(round.name.trim())
     const roomNumber = match ? Number(match[1]) : 0
 
     return Math.max(highest, roomNumber)
   }, 0)
 
-  return `Sala ${highestRoomNumber + 1}`
+  return `Turma ${highestRoomNumber + 1}`
 }
 
 export async function startRound(name: string): Promise<Round> {
   const normalizedName = name.trim()
 
   if (!normalizedName) {
-    throw new Error('Informe o nome da sala ou rodada.')
+    throw new Error('Informe o nome da turma ou rodada.')
   }
 
   const activeRound = await getActiveRound()
