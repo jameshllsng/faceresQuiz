@@ -2,6 +2,7 @@ export interface DistributionConfig {
   id: string
   productName: string
   institution: string
+  platformName: string
   poweredBy: string
   version: string
   storage: {

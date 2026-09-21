@@ -1022,4 +1022,9 @@ h1 {
     animation-duration: 0.01ms !important;
     animation-iteration-count: 1 !important;
   }
+
+  .attention-alert {
+    animation-duration: 900ms !important;
+    animation-iteration-count: 3 !important;
+  }
 }

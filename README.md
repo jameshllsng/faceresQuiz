@@ -46,7 +46,7 @@ src/
 public/         # arquivos públicos e ícone do PWA
 ```
 
-O projeto trata a FACERES como a primeira distribuição da JamSoftwares Quiz Platform. A configuração centraliza identidade, versão, PWA, tema e armazenamento local, preparando o código para outras distribuições sem alterar o núcleo do quiz.
+O projeto trata a FACERES como a primeira distribuição da plataforma JamQuest, desenvolvida pela Jam. A configuração centraliza identidade, versão, PWA, tema e armazenamento local, preparando o código para outras distribuições sem alterar o núcleo do quiz.
 
 ## Stack
 

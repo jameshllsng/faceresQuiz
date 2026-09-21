@@ -1,8 +1,8 @@
-# Relatório de Alterações — FACERES Quiz / JamSoftwares
+# Relatório de Alterações — FACERES Quiz / Jam
 
 ## Objetivo da etapa
 
-Preparar o FACERES Quiz para ser tratado como a primeira distribuição de uma plataforma de quiz da JamSoftwares, mantendo a FACERES como identidade principal e preservando o funcionamento atual da aplicação.
+Preparar o FACERES Quiz para ser tratado como a primeira distribuição de uma plataforma de quiz da Jam, mantendo a FACERES como identidade principal e preservando o funcionamento atual da aplicação.
 
 ## Alterações implementadas
 
@@ -15,7 +15,7 @@ Ela centraliza:
 - identificador da distribuição: `faceres`;
 - nome do produto: `FACERES Quiz`;
 - instituição: `FACERES`;
-- identificação da plataforma: `JamSoftwares`;
+- identificação da plataforma: `Jam`;
 - versão: `1.0.0`;
 - nome do banco local;
 - cores da distribuição;
@@ -44,12 +44,12 @@ src/
   main.ts
 ```
 
-### Identificação JamSoftwares
+### Identificação Jam
 
 Foi adicionada a identificação discreta:
 
 ```text
-Powered by JamSoftwares
+Powered by Jam
 ```
 
 Ela aparece de forma secundária na interface e não substitui a identidade visual da FACERES.
@@ -63,7 +63,7 @@ A tela apresenta:
 - FACERES Quiz;
 - distribuição FACERES;
 - versão 1.0.0;
-- JamSoftwares Quiz Platform;
+- Jam;
 - desenvolvimento por Luís Miguel Sandrin Cardoso.
 
 ### PWA e metadata
@@ -120,6 +120,6 @@ Resultado:
 ## Próximos passos sugeridos
 
 1. Validar manualmente o fluxo completo no Galaxy Tab A SM-T510.
-2. Confirmar visualmente a identificação JamSoftwares em retrato e paisagem.
+2. Confirmar visualmente a identificação Jam em retrato e paisagem.
 3. Publicar a nova versão e reinstalar o PWA no tablet para atualizar metadata e manifesto.
 4. Manter um futuro módulo de licenciamento isolado, sem acoplá-lo às regras atuais do quiz.

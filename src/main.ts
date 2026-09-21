@@ -157,6 +157,13 @@ function getDifficultyClass(difficulty: Difficulty): string {
   return difficultyClasses[difficulty]
 }
 
+function showAttentionAlert(element: HTMLElement): void {
+  element.hidden = false
+  element.classList.remove('attention-alert')
+  void element.offsetWidth
+  element.classList.add('attention-alert')
+}
+
 function renderAbout(): void {
   appRoot.innerHTML = `
     <main class="round-start">
@@ -167,7 +174,7 @@ function renderAbout(): void {
         <dl class="about-card__details">
           <div><dt>Distribuição</dt><dd>${distributionConfig.institution}</dd></div>
           <div><dt>Versão</dt><dd>${distributionConfig.version}</dd></div>
-          <div><dt>Plataforma</dt><dd>${distributionConfig.poweredBy} Quiz Platform</dd></div>
+          <div><dt>Plataforma</dt><dd>${distributionConfig.platformName}</dd></div>
           <div><dt>Desenvolvido por</dt><dd>Luís Miguel Sandrin Cardoso</dd></div>
         </dl>
         <button id="close-about" class="secondary-button history-button" type="button">Voltar</button>
@@ -641,7 +648,7 @@ function renderQuestion(
           <button class="point-button" type="button" data-team="B">+1 Time B</button>
         </div>
         <button id="next-question" class="secondary-button next-question-button" type="button">Próxima pergunta</button>
-        <p id="point-warning" class="point-warning attention-alert" role="alert" hidden></p>
+        <p id="point-warning" class="point-warning" role="alert" hidden></p>
       </section>
       ${renderScoreBar(round, lastScoredTeam)}
     </main>
@@ -705,9 +712,9 @@ function renderQuestion(
       hasConfirmedAdvanceWithoutPoint = true
 
       if (pointWarning) {
-        pointWarning.hidden = false
         pointWarning.textContent =
           'Atenção: nenhuma equipe recebeu ponto. Toque novamente para avançar mesmo assim.'
+        showAttentionAlert(pointWarning)
       }
 
       return
