@@ -6,7 +6,7 @@ export const distributionConfig: DistributionConfig = {
   institution: 'FACERES',
   platformName: 'JamQuest',
   poweredBy: 'Jam',
-  version: '1.0.0',
+  version: '1.0.1',
   storage: {
     databaseName: 'faceres-quiz',
   },

@@ -535,6 +535,25 @@ h1 {
   align-self: end;
 }
 
+.theme-card--challenge {
+  border-color: var(--challenge-yellow);
+  color: #5f4700;
+  background: #fff8d9;
+}
+
+.theme-card--challenge small {
+  color: #79600b;
+}
+
+.challenge-card {
+  text-align: center;
+}
+
+.challenge-card .round-card__description {
+  max-width: 32rem;
+  margin-inline: auto;
+}
+
 .theme-card:active:not(:disabled) {
   transform: translateY(0.15rem);
   color: #ffffff;

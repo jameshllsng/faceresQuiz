@@ -446,6 +446,10 @@ async function renderThemeSelection(round: Round): Promise<void> {
             ? '<p class="empty-state">Não há perguntas disponíveis nesta rodada. Encerre a rodada, importe as perguntas e inicie uma nova.</p>'
             : `
               <div class="theme-grid">
+                <button id="physical-challenge" class="theme-card theme-card--challenge" type="button">
+                  <span>Desafio</span>
+                  <small>Desafio ao vivo proposto pelo mediador</small>
+                </button>
                 ${categories
                   .map(
                     ({ category, availableCount }) => `
@@ -472,6 +476,13 @@ async function renderThemeSelection(round: Round): Promise<void> {
   const themeButtons = Array.from(
     document.querySelectorAll<HTMLButtonElement>('.theme-card'),
   )
+  const physicalChallengeButton = document.querySelector<HTMLButtonElement>(
+    '#physical-challenge',
+  )
+
+  physicalChallengeButton?.addEventListener('click', () => {
+    renderChallenge(round)
+  })
 
   themeButtons.forEach((button) => {
     button.addEventListener('click', () => {
@@ -514,6 +525,112 @@ async function renderThemeSelection(round: Round): Promise<void> {
   attachUndoLastPointListener(round, (updatedRound) =>
     renderThemeSelection(updatedRound),
   )
+}
+
+function renderChallenge(
+  round: Round,
+  lastScoredTeam: Team | null = null,
+): void {
+  appRoot.innerHTML = `
+    <main class="round-start round-with-score question-screen">
+      <div class="screen-top-actions">
+        ${renderFullscreenButton()}
+        <button id="reset-quiz" class="secondary-button question-reset-button" type="button">Resetar quiz</button>
+      </div>
+      <section class="round-card question-card challenge-card" aria-labelledby="challenge-title">
+        <p class="round-card__label">DESAFIO</p>
+        <h1 id="challenge-title">Desafio ao vivo</h1>
+        <p class="round-card__description">O mediador propõe o desafio para as equipes neste momento.</p>
+        <div class="point-actions">
+          <button class="point-button" type="button" data-team="A">+1 Time A</button>
+          <button class="point-button" type="button" data-team="B">+1 Time B</button>
+        </div>
+        <button id="back-to-themes" class="secondary-button next-question-button" type="button">Voltar aos temas</button>
+      </section>
+      ${renderScoreBar(round, lastScoredTeam)}
+    </main>
+  `
+
+  const resetButton = document.querySelector<HTMLButtonElement>('#reset-quiz')
+  const backButton = document.querySelector<HTMLButtonElement>('#back-to-themes')
+
+  document.querySelectorAll<HTMLButtonElement>('.point-button').forEach((button) => {
+    button.addEventListener('click', () => {
+      const team = button.dataset.team
+
+      if (team === 'A' || team === 'B') {
+        renderChallengeScoreConfirmation(round, team)
+      }
+    })
+  })
+
+  backButton?.addEventListener('click', () => {
+    void renderThemeSelection(round)
+  })
+  resetButton?.addEventListener('click', () => {
+    renderResetConfirmation()
+  })
+
+  attachFullscreenListener()
+  attachUndoLastPointListener(round, (updatedRound) =>
+    renderChallenge(updatedRound),
+  )
+}
+
+function renderChallengeScoreConfirmation(round: Round, team: Team): void {
+  const teamName = team === 'A' ? 'Time A' : 'Time B'
+  const overlay = document.createElement('div')
+  overlay.className = 'confirmation-overlay'
+  overlay.innerHTML = `
+    <section class="confirmation-card" role="dialog" aria-modal="true" aria-labelledby="challenge-score-confirmation-title">
+      <p class="round-card__label">PONTUAÇÃO DO DESAFIO</p>
+      <h2 id="challenge-score-confirmation-title">Adicionar 1 ponto ao ${teamName}?</h2>
+      <div class="confirmation-card__actions">
+        <button id="cancel-challenge-score" class="secondary-button" type="button">Cancelar</button>
+        <button id="confirm-challenge-score" class="primary-button" type="button">Confirmar</button>
+      </div>
+      <p id="challenge-score-confirmation-error" class="form-error" role="alert"></p>
+    </section>
+  `
+  document.body.append(overlay)
+
+  const cancelButton = overlay.querySelector<HTMLButtonElement>(
+    '#cancel-challenge-score',
+  )
+  const confirmButton = overlay.querySelector<HTMLButtonElement>(
+    '#confirm-challenge-score',
+  )
+  const confirmationError = overlay.querySelector<HTMLParagraphElement>(
+    '#challenge-score-confirmation-error',
+  )
+
+  cancelButton?.addEventListener('click', () => {
+    overlay.remove()
+  })
+
+  confirmButton?.addEventListener('click', () => {
+    void (async () => {
+      if (confirmButton) {
+        confirmButton.disabled = true
+      }
+
+      try {
+        const updatedRound = await addPoint(round.id, team)
+        overlay.remove()
+        renderChallenge(updatedRound, team)
+      } catch (exception: unknown) {
+        if (confirmationError) {
+          confirmationError.textContent =
+            exception instanceof Error
+              ? exception.message
+              : 'Não foi possível adicionar o ponto.'
+        }
+        if (confirmButton) {
+          confirmButton.disabled = false
+        }
+      }
+    })()
+  })
 }
 
 function renderResetConfirmation(): void {

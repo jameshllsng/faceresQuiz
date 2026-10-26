@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "esportes-001",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual é o osso mais longo do corpo humano?",
       "answer": "Fêmur",
       "difficulty": "Fácil",
@@ -11,7 +11,7 @@
     },
     {
       "id": "esportes-002",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual músculo da parte anterior do braço participa da flexão do cotovelo?",
       "answer": "Bíceps",
       "difficulty": "Fácil",
@@ -19,7 +19,7 @@
     },
     {
       "id": "esportes-003",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual músculo é o principal responsável pela inspiração durante a respiração?",
       "answer": "Diafragma",
       "difficulty": "Fácil",
@@ -27,7 +27,7 @@
     },
     {
       "id": "esportes-004",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Como se chama a perda excessiva de água pelo organismo?",
       "answer": "Desidratação",
       "difficulty": "Fácil",
@@ -35,7 +35,7 @@
     },
     {
       "id": "esportes-005",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual nutriente é uma importante fonte de energia para atividades físicas?",
       "answer": "Carboidrato",
       "difficulty": "Fácil",
@@ -43,7 +43,7 @@
     },
     {
       "id": "esportes-006",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual articulação conecta o braço ao antebraço?",
       "answer": "Cotovelo",
       "difficulty": "Fácil",
@@ -51,7 +51,7 @@
     },
     {
       "id": "esportes-007",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual músculo localizado na parte posterior do braço realiza a extensão do cotovelo?",
       "answer": "Tríceps",
       "difficulty": "Fácil",
@@ -59,7 +59,7 @@
     },
     {
       "id": "esportes-008",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual tendão conecta os músculos da panturrilha ao calcanhar?",
       "answer": "Tendão de Aquiles",
       "difficulty": "Média",
@@ -67,7 +67,7 @@
     },
     {
       "id": "esportes-009",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual substância é armazenada nos músculos e utilizada como reserva de energia durante exercícios?",
       "answer": "Glicogênio",
       "difficulty": "Média",
@@ -75,7 +75,7 @@
     },
     {
       "id": "esportes-010",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual ligamento do joelho é conhecido pela sigla LCA e pode ser lesionado em mudanças bruscas de direção?",
       "answer": "Ligamento cruzado anterior",
       "difficulty": "Média",
@@ -83,7 +83,7 @@
     },
     {
       "id": "esportes-011",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Como é chamado o aumento excessivo da temperatura corporal?",
       "answer": "Hipertermia",
       "difficulty": "Média",
@@ -91,7 +91,7 @@
     },
     {
       "id": "esportes-012",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual câmara do coração bombeia sangue rico em oxigênio para o corpo?",
       "answer": "Ventrículo esquerdo",
       "difficulty": "Média",
@@ -99,7 +99,7 @@
     },
     {
       "id": "esportes-013",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Como se chama a lesão em que um osso perde o contato normal com outro em uma articulação?",
       "answer": "Luxação",
       "difficulty": "Média",
@@ -107,7 +107,7 @@
     },
     {
       "id": "esportes-014",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual tipo de exercício utiliza oxigênio de forma predominante e pode ser exemplificado por uma corrida de longa duração?",
       "answer": "Exercício aeróbico",
       "difficulty": "Média",
@@ -115,7 +115,7 @@
     },
     {
       "id": "esportes-015",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual substância presente nos músculos ajuda a armazenar oxigênio?",
       "answer": "Mioglobina",
       "difficulty": "Difícil",
@@ -123,7 +123,7 @@
     },
     {
       "id": "esportes-016",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Como é chamada a contração em que o músculo produz força sem mudar significativamente de comprimento?",
       "answer": "Contração isométrica",
       "difficulty": "Difícil",
@@ -131,7 +131,7 @@
     },
     {
       "id": "esportes-017",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual termo representa a quantidade máxima de oxigênio que o corpo consegue utilizar durante exercício intenso?",
       "answer": "VO2 máximo",
       "difficulty": "Difícil",
@@ -139,7 +139,7 @@
     },
     {
       "id": "esportes-018",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual tipo de fibra muscular é mais associada a atividades prolongadas de resistência?",
       "answer": "Fibras de contração lenta",
       "difficulty": "Difícil",
@@ -147,7 +147,7 @@
     },
     {
       "id": "esportes-019",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual mineral participa da contração muscular e também é importante para os ossos?",
       "answer": "Cálcio",
       "difficulty": "Difícil",
@@ -155,7 +155,7 @@
     },
     {
       "id": "esportes-020",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual hormônio ajuda a reduzir a glicose no sangue após uma refeição, favorecendo sua entrada nas células?",
       "answer": "Insulina",
       "difficulty": "Difícil",
@@ -163,7 +163,7 @@
     },
     {
       "id": "esportes-021",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual órgão do corpo humano é responsável pelas trocas de oxigênio e gás carbônico com o ambiente?",
       "answer": "Pulmões",
       "difficulty": "Fácil",
@@ -171,7 +171,7 @@
     },
     {
       "id": "esportes-022",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual parte do corpo deve ser protegida por capacete em esportes como ciclismo?",
       "answer": "Cabeça",
       "difficulty": "Fácil",
@@ -179,7 +179,7 @@
     },
     {
       "id": "esportes-023",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual osso localizado no braço fica entre o ombro e o cotovelo?",
       "answer": "Úmero",
       "difficulty": "Fácil",
@@ -187,7 +187,7 @@
     },
     {
       "id": "esportes-024",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Como é chamado o aumento da frequência dos batimentos do coração durante um exercício?",
       "answer": "Aumento da frequência cardíaca",
       "difficulty": "Fácil",
@@ -195,7 +195,7 @@
     },
     {
       "id": "esportes-025",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual bebida é fundamental para repor a maior parte do líquido perdido pelo suor durante atividades físicas comuns?",
       "answer": "Água",
       "difficulty": "Fácil",
@@ -203,7 +203,7 @@
     },
     {
       "id": "esportes-026",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual articulação liga a coxa à perna?",
       "answer": "Joelho",
       "difficulty": "Fácil",
@@ -211,7 +211,7 @@
     },
     {
       "id": "esportes-027",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual músculo localizado na panturrilha participa do movimento de ficar na ponta dos pés?",
       "answer": "Gastrocnêmio",
       "difficulty": "Fácil",
@@ -219,7 +219,7 @@
     },
     {
       "id": "esportes-028",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Como é chamado o período de preparação do corpo realizado antes de uma atividade física mais intensa?",
       "answer": "Aquecimento",
       "difficulty": "Fácil",
@@ -227,7 +227,7 @@
     },
     {
       "id": "esportes-029",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual tipo de lesão ocorre quando um músculo ou tendão é alongado além do seu limite?",
       "answer": "Distensão muscular",
       "difficulty": "Média",
@@ -235,7 +235,7 @@
     },
     {
       "id": "esportes-030",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual aparelho pode ser usado para medir a pressão arterial?",
       "answer": "Esfigmomanômetro",
       "difficulty": "Média",
@@ -243,7 +243,7 @@
     },
     {
       "id": "esportes-031",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual sistema do corpo é formado por ossos e articulações e fornece sustentação ao organismo?",
       "answer": "Sistema esquelético",
       "difficulty": "Média",
@@ -251,7 +251,7 @@
     },
     {
       "id": "esportes-032",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual nutriente tem papel especialmente importante na construção e recuperação dos músculos?",
       "answer": "Proteína",
       "difficulty": "Média",
@@ -259,7 +259,7 @@
     },
     {
       "id": "esportes-033",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual estrutura do joelho ajuda a amortecer impactos entre o fêmur e a tíbia?",
       "answer": "Menisco",
       "difficulty": "Média",
@@ -267,7 +267,7 @@
     },
     {
       "id": "esportes-034",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual é o nome do movimento que diminui o ângulo entre dois segmentos de uma articulação?",
       "answer": "Flexão",
       "difficulty": "Média",
@@ -275,7 +275,7 @@
     },
     {
       "id": "esportes-035",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Como é chamada a capacidade do coração e dos pulmões de sustentar exercícios prolongados?",
       "answer": "Resistência cardiorrespiratória",
       "difficulty": "Média",
@@ -283,7 +283,7 @@
     },
     {
       "id": "esportes-036",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual substância produzida durante o metabolismo anaeróbio intenso está relacionada à formação de lactato nos músculos?",
       "answer": "Ácido pirúvico",
       "difficulty": "Difícil",
@@ -291,7 +291,7 @@
     },
     {
       "id": "esportes-037",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual músculo da coxa é formado por quatro porções musculares e participa da extensão do joelho?",
       "answer": "Quadríceps",
       "difficulty": "Difícil",
@@ -299,7 +299,7 @@
     },
     {
       "id": "esportes-038",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Como é chamada a capacidade de uma articulação realizar movimentos com boa amplitude?",
       "answer": "Flexibilidade",
       "difficulty": "Difícil",
@@ -307,7 +307,7 @@
     },
     {
       "id": "esportes-039",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual tipo de músculo forma a maior parte da musculatura utilizada voluntariamente durante exercícios?",
       "answer": "Músculo estriado esquelético",
       "difficulty": "Difícil",
@@ -315,7 +315,7 @@
     },
     {
       "id": "esportes-040",
-      "category": "Esportes",
+      "category": "FACERES",
       "question": "Qual é o nome do volume de sangue bombeado pelo coração em um minuto?",
       "answer": "Débito cardíaco",
       "difficulty": "Difícil",
@@ -323,7 +323,7 @@
     },
     {
       "id": "geografia-historia-001",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Em que ano os portugueses chegaram ao território que hoje corresponde ao Brasil?",
       "answer": "1500",
       "difficulty": "Fácil",
@@ -331,7 +331,7 @@
     },
     {
       "id": "geografia-historia-002",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Quem liderou a expedição portuguesa que chegou ao Brasil em 1500?",
       "answer": "Pedro Álvares Cabral",
       "difficulty": "Fácil",
@@ -339,7 +339,7 @@
     },
     {
       "id": "geografia-historia-003",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual povo da Antiguidade desenvolveu a democracia em Atenas?",
       "answer": "Gregos",
       "difficulty": "Fácil",
@@ -347,7 +347,7 @@
     },
     {
       "id": "geografia-historia-004",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual muro se tornou símbolo da divisão da Alemanha durante a Guerra Fria?",
       "answer": "Muro de Berlim",
       "difficulty": "Fácil",
@@ -355,7 +355,7 @@
     },
     {
       "id": "geografia-historia-005",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Quem foi o primeiro imperador do Brasil?",
       "answer": "Dom Pedro I",
       "difficulty": "Fácil",
@@ -363,7 +363,7 @@
     },
     {
       "id": "geografia-historia-006",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual civilização antiga utilizava hieróglifos como sistema de escrita?",
       "answer": "Egípcios",
       "difficulty": "Fácil",
@@ -371,7 +371,7 @@
     },
     {
       "id": "geografia-historia-007",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual movimento religioso do século XVI teve Martinho Lutero como uma de suas principais figuras?",
       "answer": "Reforma Protestante",
       "difficulty": "Média",
@@ -379,7 +379,7 @@
     },
     {
       "id": "geografia-historia-008",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual invenção de Gutenberg ajudou a ampliar a produção de livros na Europa?",
       "answer": "Imprensa de tipos móveis",
       "difficulty": "Média",
@@ -387,7 +387,7 @@
     },
     {
       "id": "geografia-historia-009",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual civilização construiu Machu Picchu?",
       "answer": "Incas",
       "difficulty": "Média",
@@ -395,7 +395,7 @@
     },
     {
       "id": "geografia-historia-010",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual civilização tinha Tenochtitlán como capital?",
       "answer": "Astecas",
       "difficulty": "Média",
@@ -403,7 +403,7 @@
     },
     {
       "id": "geografia-historia-011",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual produto agrícola teve grande importância econômica no início da colonização portuguesa do Brasil?",
       "answer": "Açúcar",
       "difficulty": "Média",
@@ -411,7 +411,7 @@
     },
     {
       "id": "geografia-historia-012",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual revolução de 1917 levou os bolcheviques ao poder na Rússia?",
       "answer": "Revolução Russa",
       "difficulty": "Média",
@@ -419,7 +419,7 @@
     },
     {
       "id": "geografia-historia-013",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual monarca francês ficou conhecido como Rei Sol?",
       "answer": "Luís XIV",
       "difficulty": "Média",
@@ -427,7 +427,7 @@
     },
     {
       "id": "geografia-historia-014",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual líder francês foi derrotado definitivamente na Batalha de Waterloo?",
       "answer": "Napoleão Bonaparte",
       "difficulty": "Média",
@@ -435,7 +435,7 @@
     },
     {
       "id": "geografia-historia-015",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual sistema político e econômico predominou em grande parte da Europa medieval?",
       "answer": "Feudalismo",
       "difficulty": "Difícil",
@@ -443,7 +443,7 @@
     },
     {
       "id": "geografia-historia-016",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual revolta do período colonial ocorreu na Bahia em 1798 e também ficou conhecida como Revolta dos Alfaiates?",
       "answer": "Conjuração Baiana",
       "difficulty": "Difícil",
@@ -451,7 +451,7 @@
     },
     {
       "id": "geografia-historia-017",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual política econômica europeia defendia a acumulação de metais preciosos e forte participação do Estado na economia?",
       "answer": "Mercantilismo",
       "difficulty": "Difícil",
@@ -459,7 +459,7 @@
     },
     {
       "id": "geografia-historia-018",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual conflito medieval envolveu Inglaterra e França entre os séculos XIV e XV?",
       "answer": "Guerra dos Cem Anos",
       "difficulty": "Difícil",
@@ -467,7 +467,7 @@
     },
     {
       "id": "geografia-historia-019",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual revolta do período regencial brasileiro ocorreu principalmente na província do Pará?",
       "answer": "Cabanagem",
       "difficulty": "Difícil",
@@ -475,7 +475,7 @@
     },
     {
       "id": "geografia-historia-020",
-      "category": "Geografia e História",
+      "category": "História",
       "question": "Qual documento de 1789 estabeleceu princípios como liberdade e igualdade durante a Revolução Francesa?",
       "answer": "Declaração dos Direitos do Homem e do Cidadão",
       "difficulty": "Difícil",
@@ -483,7 +483,7 @@
     },
     {
       "id": "geografia-historia-021",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual é o maior país do mundo em extensão territorial?",
       "answer": "Rússia",
       "difficulty": "Fácil",
@@ -491,7 +491,7 @@
     },
     {
       "id": "geografia-historia-022",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual rio atravessa o Egito e foi fundamental para o desenvolvimento de sua civilização antiga?",
       "answer": "Rio Nilo",
       "difficulty": "Fácil",
@@ -499,7 +499,7 @@
     },
     {
       "id": "geografia-historia-023",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual é a capital da Argentina?",
       "answer": "Buenos Aires",
       "difficulty": "Fácil",
@@ -507,7 +507,7 @@
     },
     {
       "id": "geografia-historia-024",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Em qual continente fica o deserto do Saara?",
       "answer": "África",
       "difficulty": "Fácil",
@@ -515,7 +515,7 @@
     },
     {
       "id": "geografia-historia-025",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual linha imaginária divide a Terra nos hemisférios Norte e Sul?",
       "answer": "Linha do Equador",
       "difficulty": "Fácil",
@@ -523,7 +523,7 @@
     },
     {
       "id": "geografia-historia-026",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual é o oceano de maior extensão do planeta?",
       "answer": "Oceano Pacífico",
       "difficulty": "Fácil",
@@ -531,7 +531,7 @@
     },
     {
       "id": "geografia-historia-027",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual país europeu tem o formato frequentemente comparado ao de uma bota?",
       "answer": "Itália",
       "difficulty": "Fácil",
@@ -539,7 +539,7 @@
     },
     {
       "id": "geografia-historia-028",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual é a capital do Canadá?",
       "answer": "Ottawa",
       "difficulty": "Fácil",
@@ -547,7 +547,7 @@
     },
     {
       "id": "geografia-historia-029",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual cordilheira se estende pela costa oeste da América do Sul?",
       "answer": "Cordilheira dos Andes",
       "difficulty": "Média",
@@ -555,7 +555,7 @@
     },
     {
       "id": "geografia-historia-030",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual bioma brasileiro ocupa grande parte da Região Norte?",
       "answer": "Amazônia",
       "difficulty": "Média",
@@ -563,7 +563,7 @@
     },
     {
       "id": "geografia-historia-031",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual estreito separa a Ásia da América do Norte?",
       "answer": "Estreito de Bering",
       "difficulty": "Média",
@@ -571,7 +571,7 @@
     },
     {
       "id": "geografia-historia-032",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual é o menor país do mundo em área territorial?",
       "answer": "Vaticano",
       "difficulty": "Média",
@@ -579,7 +579,7 @@
     },
     {
       "id": "geografia-historia-033",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual clima é caracterizado por temperaturas elevadas e chuvas abundantes durante grande parte do ano?",
       "answer": "Clima equatorial",
       "difficulty": "Média",
@@ -587,7 +587,7 @@
     },
     {
       "id": "geografia-historia-034",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual país é atravessado simultaneamente pela Linha do Equador e pelo meridiano de Greenwich?",
       "answer": "Gana",
       "difficulty": "Média",
@@ -595,7 +595,7 @@
     },
     {
       "id": "geografia-historia-035",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual é a capital da Austrália?",
       "answer": "Canberra",
       "difficulty": "Média",
@@ -603,7 +603,7 @@
     },
     {
       "id": "geografia-historia-036",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Como se chama o movimento periódico das águas do mar causado principalmente pela atração da Lua e do Sol?",
       "answer": "Maré",
       "difficulty": "Média",
@@ -611,7 +611,7 @@
     },
     {
       "id": "geografia-historia-037",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual mar interior separa a Europa do norte da África?",
       "answer": "Mar Mediterrâneo",
       "difficulty": "Difícil",
@@ -619,7 +619,7 @@
     },
     {
       "id": "geografia-historia-038",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual país possui a maior parte da floresta Amazônica em seu território?",
       "answer": "Brasil",
       "difficulty": "Difícil",
@@ -627,7 +627,7 @@
     },
     {
       "id": "geografia-historia-039",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual é o ponto mais alto da Terra acima do nível do mar?",
       "answer": "Monte Everest",
       "difficulty": "Difícil",
@@ -635,7 +635,7 @@
     },
     {
       "id": "geografia-historia-040",
-      "category": "Geografia e História",
+      "category": "Geografia",
       "question": "Qual tipo de mapa representa principalmente relevo, rios e altitudes?",
       "answer": "Mapa físico",
       "difficulty": "Difícil",
@@ -643,7 +643,7 @@
     },
     {
       "id": "cinema-001",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual franquia de filmes apresenta dinossauros recriados geneticamente em um parque?",
       "answer": "Jurassic Park",
       "difficulty": "Fácil",
@@ -651,7 +651,7 @@
     },
     {
       "id": "cinema-002",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual ator interpretou Neo nos filmes Matrix?",
       "answer": "Keanu Reeves",
       "difficulty": "Média",
@@ -659,7 +659,7 @@
     },
     {
       "id": "cinema-003",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual diretor comandou filmes como Jurassic Park e E.T. - O Extraterrestre?",
       "answer": "Steven Spielberg",
       "difficulty": "Média",
@@ -667,7 +667,7 @@
     },
     {
       "id": "cinema-004",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme de animação apresenta as emoções Alegria, Tristeza, Raiva, Medo e Nojinho?",
       "answer": "Divertida Mente",
       "difficulty": "Média",
@@ -675,7 +675,7 @@
     },
     {
       "id": "cinema-005",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual diretor criou os filmes A Viagem de Chihiro e Meu Amigo Totoro?",
       "answer": "Hayao Miyazaki",
       "difficulty": "Difícil",
@@ -683,7 +683,7 @@
     },
     {
       "id": "cinema-006",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme apresenta o computador de inteligência artificial HAL 9000?",
       "answer": "2001: Uma Odisseia no Espaço",
       "difficulty": "Difícil",
@@ -691,7 +691,7 @@
     },
     {
       "id": "cinema-007",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme da Disney apresenta as irmãs Elsa e Anna?",
       "answer": "Frozen",
       "difficulty": "Fácil",
@@ -699,7 +699,7 @@
     },
     {
       "id": "cinema-008",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme apresenta um ogro verde que vive em um pântano?",
       "answer": "Shrek",
       "difficulty": "Fácil",
@@ -707,7 +707,7 @@
     },
     {
       "id": "cinema-009",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual ator interpretou o personagem Jack no filme Titanic?",
       "answer": "Leonardo DiCaprio",
       "difficulty": "Média",
@@ -715,7 +715,7 @@
     },
     {
       "id": "cinema-010",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual personagem da saga O Senhor dos Anéis carrega o Um Anel durante grande parte da jornada?",
       "answer": "Frodo Bolseiro",
       "difficulty": "Média",
@@ -723,7 +723,7 @@
     },
     {
       "id": "cinema-011",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual diretor é conhecido pelos filmes Edward Mãos de Tesoura e A Fantástica Fábrica de Chocolate de 2005?",
       "answer": "Tim Burton",
       "difficulty": "Difícil",
@@ -731,7 +731,7 @@
     },
     {
       "id": "cinema-012",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme dirigido por Christopher Nolan acompanha a entrada em sonhos de outras pessoas?",
       "answer": "A Origem",
       "difficulty": "Difícil",
@@ -739,7 +739,7 @@
     },
     {
       "id": "cinema-013",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme de 1975 dirigido por Steven Spielberg acompanha a caça a um grande tubarão branco?",
       "answer": "Tubarão",
       "difficulty": "Fácil",
@@ -747,7 +747,7 @@
     },
     {
       "id": "cinema-014",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual atriz interpretou Hermione Granger na série de filmes Harry Potter?",
       "answer": "Emma Watson",
       "difficulty": "Fácil",
@@ -755,7 +755,7 @@
     },
     {
       "id": "cinema-015",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Em qual filme da Pixar um peixe-palhaço atravessa o oceano em busca do filho?",
       "answer": "Procurando Nemo",
       "difficulty": "Fácil",
@@ -763,7 +763,7 @@
     },
     {
       "id": "cinema-016",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme brasileiro acompanha as histórias de João Grilo e Chicó?",
       "answer": "O Auto da Compadecida",
       "difficulty": "Fácil",
@@ -771,7 +771,7 @@
     },
     {
       "id": "cinema-017",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual ator interpretou o pirata Jack Sparrow no cinema?",
       "answer": "Johnny Depp",
       "difficulty": "Fácil",
@@ -779,7 +779,7 @@
     },
     {
       "id": "cinema-018",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual trilogia cinematográfica foi dirigida por Peter Jackson e baseada na obra de J. R. R. Tolkien?",
       "answer": "O Senhor dos Anéis",
       "difficulty": "Fácil",
@@ -787,7 +787,7 @@
     },
     {
       "id": "cinema-019",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme de 1985 apresenta uma máquina do tempo construída em um DeLorean?",
       "answer": "De Volta para o Futuro",
       "difficulty": "Fácil",
@@ -795,7 +795,7 @@
     },
     {
       "id": "cinema-020",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual atriz protagonizou Legalmente Loira como Elle Woods?",
       "answer": "Reese Witherspoon",
       "difficulty": "Fácil",
@@ -803,7 +803,7 @@
     },
     {
       "id": "cinema-021",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme sul-coreano venceu o Oscar de Melhor Filme em 2020?",
       "answer": "Parasita",
       "difficulty": "Fácil",
@@ -811,7 +811,7 @@
     },
     {
       "id": "cinema-022",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Quem dirigiu Pulp Fiction?",
       "answer": "Quentin Tarantino",
       "difficulty": "Fácil",
@@ -819,7 +819,7 @@
     },
     {
       "id": "cinema-023",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme de Ridley Scott apresenta a personagem Ellen Ripley enfrentando uma criatura extraterrestre?",
       "answer": "Alien, o Oitavo Passageiro",
       "difficulty": "Fácil",
@@ -827,7 +827,7 @@
     },
     {
       "id": "cinema-024",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual ator viveu o Coringa em O Cavaleiro das Trevas?",
       "answer": "Heath Ledger",
       "difficulty": "Média",
@@ -835,7 +835,7 @@
     },
     {
       "id": "cinema-025",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme de animação japonês acompanha duas irmãs que conhecem uma criatura da floresta chamada Totoro?",
       "answer": "Meu Amigo Totoro",
       "difficulty": "Média",
@@ -843,7 +843,7 @@
     },
     {
       "id": "cinema-026",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Em qual filme de 1994 Tom Hanks interpreta um homem que presencia vários acontecimentos históricos dos Estados Unidos?",
       "answer": "Forrest Gump",
       "difficulty": "Média",
@@ -851,7 +851,7 @@
     },
     {
       "id": "cinema-027",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual diretor brasileiro realizou Cidade de Deus ao lado de Kátia Lund?",
       "answer": "Fernando Meirelles",
       "difficulty": "Média",
@@ -859,7 +859,7 @@
     },
     {
       "id": "cinema-028",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme de Stanley Kubrick se passa no Hotel Overlook?",
       "answer": "O Iluminado",
       "difficulty": "Média",
@@ -867,7 +867,7 @@
     },
     {
       "id": "cinema-029",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual atriz interpretou Katniss Everdeen na franquia Jogos Vorazes?",
       "answer": "Jennifer Lawrence",
       "difficulty": "Média",
@@ -875,7 +875,7 @@
     },
     {
       "id": "cinema-030",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual clássico de 1942 tem Rick Blaine e Ilsa Lund como personagens centrais?",
       "answer": "Casablanca",
       "difficulty": "Média",
@@ -883,7 +883,7 @@
     },
     {
       "id": "cinema-031",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual movimento do cinema francês revelou diretores como François Truffaut e Jean-Luc Godard?",
       "answer": "Nouvelle Vague",
       "difficulty": "Média",
@@ -891,7 +891,7 @@
     },
     {
       "id": "cinema-032",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme italiano de 1948, dirigido por Vittorio De Sica, é um marco do neorrealismo?",
       "answer": "Ladrões de Bicicleta",
       "difficulty": "Média",
@@ -899,7 +899,7 @@
     },
     {
       "id": "cinema-033",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual cineasta dirigiu Os Sete Samurais?",
       "answer": "Akira Kurosawa",
       "difficulty": "Média",
@@ -907,7 +907,7 @@
     },
     {
       "id": "cinema-034",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme de 1999 tem como protagonista um narrador que conhece Tyler Durden?",
       "answer": "Clube da Luta",
       "difficulty": "Média",
@@ -915,7 +915,7 @@
     },
     {
       "id": "cinema-035",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual atriz interpretou a personagem principal em O Fabuloso Destino de Amélie Poulain?",
       "answer": "Audrey Tautou",
       "difficulty": "Difícil",
@@ -923,7 +923,7 @@
     },
     {
       "id": "cinema-036",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme dirigido por Alfonso Cuarón acompanha uma missão espacial após a destruição de um ônibus espacial?",
       "answer": "Gravidade",
       "difficulty": "Difícil",
@@ -931,7 +931,7 @@
     },
     {
       "id": "cinema-037",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual longa-metragem de animação foi o primeiro lançado pela Pixar?",
       "answer": "Toy Story",
       "difficulty": "Difícil",
@@ -939,7 +939,7 @@
     },
     {
       "id": "cinema-038",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme de 1960 dirigido por Alfred Hitchcock apresenta o Motel Bates?",
       "answer": "Psicose",
       "difficulty": "Difícil",
@@ -947,7 +947,7 @@
     },
     {
       "id": "cinema-039",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual diretor realizou os filmes O Poderoso Chefão e Apocalypse Now?",
       "answer": "Francis Ford Coppola",
       "difficulty": "Difícil",
@@ -955,7 +955,7 @@
     },
     {
       "id": "cinema-040",
-      "category": "Cinema",
+      "category": "Arte e Cultura",
       "question": "Qual filme de 1927, dirigido por Fritz Lang, retrata uma cidade futurista dividida entre trabalhadores e elite?",
       "answer": "Metrópolis",
       "difficulty": "Difícil",
@@ -963,7 +963,7 @@
     },
     {
       "id": "musica-001",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual cantor ficou conhecido como o Rei do Pop?",
       "answer": "Michael Jackson",
       "difficulty": "Fácil",
@@ -971,7 +971,7 @@
     },
     {
       "id": "musica-002",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual banda gravou a música Smells Like Teen Spirit?",
       "answer": "Nirvana",
       "difficulty": "Fácil",
@@ -979,7 +979,7 @@
     },
     {
       "id": "musica-003",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual banda tem Mick Jagger como vocalista?",
       "answer": "The Rolling Stones",
       "difficulty": "Fácil",
@@ -987,7 +987,7 @@
     },
     {
       "id": "musica-004",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual banda lançou a música Sweet Child o' Mine?",
       "answer": "Guns N' Roses",
       "difficulty": "Média",
@@ -995,7 +995,7 @@
     },
     {
       "id": "musica-005",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual banda lançou o álbum Master of Puppets?",
       "answer": "Metallica",
       "difficulty": "Média",
@@ -1003,7 +1003,7 @@
     },
     {
       "id": "musica-006",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual banda britânica lançou o álbum OK Computer?",
       "answer": "Radiohead",
       "difficulty": "Difícil",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": "musica-007",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual banda de rock foi formada pelos irmãos Liam e Noel Gallagher?",
       "answer": "Oasis",
       "difficulty": "Difícil",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "musica-008",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual gênero musical brasileiro ficou internacionalmente associado a Tom Jobim e João Gilberto?",
       "answer": "Bossa nova",
       "difficulty": "Difícil",
@@ -1027,7 +1027,7 @@
     },
     {
       "id": "musica-009",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual banda brasileira teve Renato Russo como vocalista?",
       "answer": "Legião Urbana",
       "difficulty": "Fácil",
@@ -1035,7 +1035,7 @@
     },
     {
       "id": "musica-010",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual banda lançou a música Numb?",
       "answer": "Linkin Park",
       "difficulty": "Média",
@@ -1043,7 +1043,7 @@
     },
     {
       "id": "musica-011",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual cantora britânica lançou músicas como Someone Like You e Rolling in the Deep?",
       "answer": "Adele",
       "difficulty": "Média",
@@ -1051,7 +1051,7 @@
     },
     {
       "id": "musica-012",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual banda brasileira lançou músicas como Pais e Filhos e Tempo Perdido?",
       "answer": "Legião Urbana",
       "difficulty": "Média",
@@ -1059,7 +1059,7 @@
     },
     {
       "id": "musica-013",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual banda lançou o álbum American Idiot?",
       "answer": "Green Day",
       "difficulty": "Difícil",
@@ -1067,7 +1067,7 @@
     },
     {
       "id": "musica-014",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual banda britânica lançou músicas como Do I Wanna Know? e R U Mine?",
       "answer": "Arctic Monkeys",
       "difficulty": "Difícil",
@@ -1075,7 +1075,7 @@
     },
     {
       "id": "musica-015",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual cantor brasileiro ficou conhecido como Rei do Rock Brasileiro e lançou a música Metamorfose Ambulante?",
       "answer": "Raul Seixas",
       "difficulty": "Difícil",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": "musica-016",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual instrumento musical possui normalmente 88 teclas?",
       "answer": "Piano",
       "difficulty": "Fácil",
@@ -1091,7 +1091,7 @@
     },
     {
       "id": "musica-017",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual cantora brasileira ficou conhecida como Pimentinha?",
       "answer": "Elis Regina",
       "difficulty": "Fácil",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": "musica-018",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual compositor escreveu a Nona Sinfonia e continuou compondo após perder grande parte da audição?",
       "answer": "Ludwig van Beethoven",
       "difficulty": "Fácil",
@@ -1107,7 +1107,7 @@
     },
     {
       "id": "musica-019",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual grupo britânico era formado por John Lennon, Paul McCartney, George Harrison e Ringo Starr?",
       "answer": "The Beatles",
       "difficulty": "Fácil",
@@ -1115,7 +1115,7 @@
     },
     {
       "id": "musica-020",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual cantora é conhecida como Rainha do Rock Brasileiro?",
       "answer": "Rita Lee",
       "difficulty": "Fácil",
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "musica-021",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual instrumento de cordas é tocado com um arco e costuma ter quatro cordas?",
       "answer": "Violino",
       "difficulty": "Fácil",
@@ -1131,7 +1131,7 @@
     },
     {
       "id": "musica-022",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual gênero musical surgiu na Jamaica e teve Bob Marley como um de seus maiores representantes?",
       "answer": "Reggae",
       "difficulty": "Fácil",
@@ -1139,7 +1139,7 @@
     },
     {
       "id": "musica-023",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Quem compôs a ópera A Flauta Mágica?",
       "answer": "Wolfgang Amadeus Mozart",
       "difficulty": "Fácil",
@@ -1147,7 +1147,7 @@
     },
     {
       "id": "musica-024",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual cantora norte-americana lançou o álbum Lemonade?",
       "answer": "Beyoncé",
       "difficulty": "Fácil",
@@ -1155,7 +1155,7 @@
     },
     {
       "id": "musica-025",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual músico brasileiro compôs Aquarela do Brasil?",
       "answer": "Ary Barroso",
       "difficulty": "Fácil",
@@ -1163,7 +1163,7 @@
     },
     {
       "id": "musica-026",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Como se chama o conjunto de cinco linhas usado para escrever notas musicais?",
       "answer": "Pentagrama",
       "difficulty": "Média",
@@ -1171,7 +1171,7 @@
     },
     {
       "id": "musica-027",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual banda lançou o álbum The Dark Side of the Moon?",
       "answer": "Pink Floyd",
       "difficulty": "Média",
@@ -1179,7 +1179,7 @@
     },
     {
       "id": "musica-028",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual cantora portuguesa é uma referência mundial do fado e ficou conhecida como Rainha do Fado?",
       "answer": "Amália Rodrigues",
       "difficulty": "Média",
@@ -1187,7 +1187,7 @@
     },
     {
       "id": "musica-029",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual compositor brasileiro criou as Bachianas Brasileiras?",
       "answer": "Heitor Villa-Lobos",
       "difficulty": "Média",
@@ -1195,7 +1195,7 @@
     },
     {
       "id": "musica-030",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual gênero musical nasceu em comunidades afro-americanas de Nova Orleans no início do século XX?",
       "answer": "Jazz",
       "difficulty": "Média",
@@ -1203,7 +1203,7 @@
     },
     {
       "id": "musica-031",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual artista lançou Purple Rain em 1984?",
       "answer": "Prince",
       "difficulty": "Média",
@@ -1211,7 +1211,7 @@
     },
     {
       "id": "musica-032",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual banda brasileira teve Cazuza como vocalista?",
       "answer": "Barão Vermelho",
       "difficulty": "Média",
@@ -1219,7 +1219,7 @@
     },
     {
       "id": "musica-033",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual termo musical indica a velocidade de execução de uma obra?",
       "answer": "Andamento",
       "difficulty": "Média",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "musica-034",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual compositor criou o balé O Lago dos Cisnes?",
       "answer": "Piotr Ilitch Tchaikovsky",
       "difficulty": "Média",
@@ -1235,7 +1235,7 @@
     },
     {
       "id": "musica-035",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual cantora cubana ficou conhecida como Rainha da Salsa?",
       "answer": "Celia Cruz",
       "difficulty": "Média",
@@ -1243,7 +1243,7 @@
     },
     {
       "id": "musica-036",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual instrumento de sopro de metal utiliza uma vara móvel para alterar as notas?",
       "answer": "Trombone",
       "difficulty": "Média",
@@ -1251,7 +1251,7 @@
     },
     {
       "id": "musica-037",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual álbum dos Beatles tem uma capa em que os integrantes atravessam uma faixa de pedestres?",
       "answer": "Abbey Road",
       "difficulty": "Difícil",
@@ -1259,7 +1259,7 @@
     },
     {
       "id": "musica-038",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual movimento musical brasileiro reuniu nomes como Caetano Veloso, Gilberto Gil e Gal Costa no fim dos anos 1960?",
       "answer": "Tropicália",
       "difficulty": "Difícil",
@@ -1267,7 +1267,7 @@
     },
     {
       "id": "musica-039",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual compositor barroco escreveu As Quatro Estações?",
       "answer": "Antonio Vivaldi",
       "difficulty": "Difícil",
@@ -1275,7 +1275,7 @@
     },
     {
       "id": "musica-040",
-      "category": "Música",
+      "category": "Arte e Cultura",
       "question": "Qual termo designa uma composição musical para uma voz sem acompanhamento instrumental?",
       "answer": "A cappella",
       "difficulty": "Difícil",
@@ -1603,7 +1603,7 @@
     },
     {
       "id": "conhecimentos-gerais-001",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Qual classe gramatical indica ação, estado ou fenômeno da natureza?",
       "answer": "Verbo",
       "difficulty": "Fácil",
@@ -1611,7 +1611,7 @@
     },
     {
       "id": "conhecimentos-gerais-002",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Como se chama uma palavra que possui significado semelhante ao de outra?",
       "answer": "Sinônimo",
       "difficulty": "Fácil",
@@ -1619,7 +1619,7 @@
     },
     {
       "id": "conhecimentos-gerais-003",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Como se chama uma palavra que possui significado contrário ao de outra?",
       "answer": "Antônimo",
       "difficulty": "Fácil",
@@ -1627,7 +1627,7 @@
     },
     {
       "id": "conhecimentos-gerais-004",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Qual classe gramatical é utilizada para nomear seres, objetos, lugares, sentimentos e ideias?",
       "answer": "Substantivo",
       "difficulty": "Fácil",
@@ -1635,7 +1635,7 @@
     },
     {
       "id": "conhecimentos-gerais-005",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Quem escreveu Capitães da Areia?",
       "answer": "Jorge Amado",
       "difficulty": "Fácil",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "conhecimentos-gerais-006",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Qual figura de linguagem utiliza um exagero intencional?",
       "answer": "Hipérbole",
       "difficulty": "Fácil",
@@ -1651,7 +1651,7 @@
     },
     {
       "id": "conhecimentos-gerais-007",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Quem escreveu A Hora da Estrela?",
       "answer": "Clarice Lispector",
       "difficulty": "Média",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": "conhecimentos-gerais-008",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Quem escreveu Morte e Vida Severina?",
       "answer": "João Cabral de Melo Neto",
       "difficulty": "Média",
@@ -1667,7 +1667,7 @@
     },
     {
       "id": "conhecimentos-gerais-009",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Qual figura de linguagem aproxima palavras ou ideias de sentidos opostos?",
       "answer": "Antítese",
       "difficulty": "Média",
@@ -1675,7 +1675,7 @@
     },
     {
       "id": "conhecimentos-gerais-010",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Qual classe gramatical pode substituir ou acompanhar um substantivo, como em 'ele', 'ela' e 'meu'?",
       "answer": "Pronome",
       "difficulty": "Média",
@@ -1683,7 +1683,7 @@
     },
     {
       "id": "conhecimentos-gerais-011",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Quem escreveu Canção do Exílio?",
       "answer": "Gonçalves Dias",
       "difficulty": "Média",
@@ -1691,7 +1691,7 @@
     },
     {
       "id": "conhecimentos-gerais-012",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Qual movimento literário brasileiro valorizou o nacionalismo e teve José de Alencar e Gonçalves Dias entre seus autores?",
       "answer": "Romantismo",
       "difficulty": "Média",
@@ -1699,7 +1699,7 @@
     },
     {
       "id": "conhecimentos-gerais-013",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Qual termo da oração indica sobre quem ou sobre o que se declara algo?",
       "answer": "Sujeito",
       "difficulty": "Média",
@@ -1707,7 +1707,7 @@
     },
     {
       "id": "conhecimentos-gerais-014",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Qual figura de linguagem substitui uma palavra por outra com a qual existe uma relação de proximidade, como usar 'ler Machado de Assis' no lugar de 'ler a obra de Machado de Assis'?",
       "answer": "Metonímia",
       "difficulty": "Média",
@@ -1715,7 +1715,7 @@
     },
     {
       "id": "conhecimentos-gerais-015",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Qual movimento literário brasileiro teve Olavo Bilac como um de seus principais representantes?",
       "answer": "Parnasianismo",
       "difficulty": "Difícil",
@@ -1723,7 +1723,7 @@
     },
     {
       "id": "conhecimentos-gerais-016",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Quem escreveu Os Sertões?",
       "answer": "Euclides da Cunha",
       "difficulty": "Difícil",
@@ -1731,7 +1731,7 @@
     },
     {
       "id": "conhecimentos-gerais-017",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Qual período literário brasileiro reuniu autores como Euclides da Cunha e Lima Barreto antes do Modernismo?",
       "answer": "Pré-Modernismo",
       "difficulty": "Difícil",
@@ -1739,7 +1739,7 @@
     },
     {
       "id": "conhecimentos-gerais-018",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Qual figura de linguagem apresenta uma contradição aparente, como na expressão 'estou cego e vejo'?",
       "answer": "Paradoxo",
       "difficulty": "Difícil",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "conhecimentos-gerais-019",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Qual escola literária brasileira teve como característica a valorização da forma, da objetividade e da descrição?",
       "answer": "Parnasianismo",
       "difficulty": "Difícil",
@@ -1755,7 +1755,7 @@
     },
     {
       "id": "conhecimentos-gerais-020",
-      "category": "Conhecimentos Gerais",
+      "category": "Língua Portuguesa",
       "question": "Qual autor brasileiro criou o personagem Policarpo Quaresma?",
       "answer": "Lima Barreto",
       "difficulty": "Difícil",
@@ -1923,7 +1923,7 @@
     },
     {
       "id": "artes-001",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual artista mexicana ficou famosa por seus autorretratos?",
       "answer": "Frida Kahlo",
       "difficulty": "Fácil",
@@ -1931,7 +1931,7 @@
     },
     {
       "id": "artes-002",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Quem pintou A Última Ceia?",
       "answer": "Leonardo da Vinci",
       "difficulty": "Fácil",
@@ -1939,7 +1939,7 @@
     },
     {
       "id": "artes-003",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Como se chama a arte de produzir formas tridimensionais em materiais como pedra, madeira ou metal?",
       "answer": "Escultura",
       "difficulty": "Fácil",
@@ -1947,7 +1947,7 @@
     },
     {
       "id": "artes-004",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual técnica artística consiste em reunir diferentes materiais ou imagens sobre uma superfície?",
       "answer": "Colagem",
       "difficulty": "Fácil",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "artes-005",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual artista norte-americano ficou famoso por obras de Pop Art com latas de sopa Campbell?",
       "answer": "Andy Warhol",
       "difficulty": "Fácil",
@@ -1963,7 +1963,7 @@
     },
     {
       "id": "artes-006",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual movimento artístico valorizou emoções, imaginação e natureza no século XIX?",
       "answer": "Romantismo",
       "difficulty": "Fácil",
@@ -1971,7 +1971,7 @@
     },
     {
       "id": "artes-007",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Quem pintou Moça com Brinco de Pérola?",
       "answer": "Johannes Vermeer",
       "difficulty": "Média",
@@ -1979,7 +1979,7 @@
     },
     {
       "id": "artes-008",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual artista pintou O Nascimento de Vênus?",
       "answer": "Sandro Botticelli",
       "difficulty": "Média",
@@ -1987,7 +1987,7 @@
     },
     {
       "id": "artes-009",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual movimento artístico buscou retomar modelos da Grécia e Roma antigas no século XVIII?",
       "answer": "Neoclassicismo",
       "difficulty": "Média",
@@ -1995,7 +1995,7 @@
     },
     {
       "id": "artes-010",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual técnica de pintura utiliza pigmentos diluídos em água e costuma produzir efeitos transparentes?",
       "answer": "Aquarela",
       "difficulty": "Média",
@@ -2003,7 +2003,7 @@
     },
     {
       "id": "artes-011",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual artista francês pintou A Liberdade Guiando o Povo?",
       "answer": "Eugène Delacroix",
       "difficulty": "Média",
@@ -2011,7 +2011,7 @@
     },
     {
       "id": "artes-012",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual técnica utiliza pequenos pontos de cores para formar uma imagem?",
       "answer": "Pontilhismo",
       "difficulty": "Média",
@@ -2019,7 +2019,7 @@
     },
     {
       "id": "artes-013",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual movimento artístico utiliza formas e cores sem necessariamente representar objetos reconhecíveis?",
       "answer": "Abstracionismo",
       "difficulty": "Média",
@@ -2027,7 +2027,7 @@
     },
     {
       "id": "artes-014",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual artista russo é considerado um dos pioneiros da arte abstrata?",
       "answer": "Wassily Kandinsky",
       "difficulty": "Média",
@@ -2035,7 +2035,7 @@
     },
     {
       "id": "artes-015",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual artista francês é um dos principais nomes do pontilhismo?",
       "answer": "Georges Seurat",
       "difficulty": "Difícil",
@@ -2043,7 +2043,7 @@
     },
     {
       "id": "artes-016",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual pintor espanhol criou a obra As Meninas?",
       "answer": "Diego Velázquez",
       "difficulty": "Difícil",
@@ -2051,7 +2051,7 @@
     },
     {
       "id": "artes-017",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual artista holandês pintou A Ronda Noturna?",
       "answer": "Rembrandt",
       "difficulty": "Difícil",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "artes-018",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Como se chama o ponto para o qual linhas paralelas parecem convergir em um desenho em perspectiva?",
       "answer": "Ponto de fuga",
       "difficulty": "Difícil",
@@ -2067,7 +2067,7 @@
     },
     {
       "id": "artes-019",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual movimento artístico do século XIX buscava representar a vida cotidiana sem idealização?",
       "answer": "Realismo",
       "difficulty": "Difícil",
@@ -2075,7 +2075,7 @@
     },
     {
       "id": "artes-020",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual movimento artístico do século XX utilizou imagens da publicidade, produtos e cultura de massa?",
       "answer": "Pop Art",
       "difficulty": "Difícil",
@@ -2083,7 +2083,7 @@
     },
     {
       "id": "artes-021",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Quais são as três cores primárias tradicionais na pintura?",
       "answer": "Vermelho, amarelo e azul",
       "difficulty": "Fácil",
@@ -2091,7 +2091,7 @@
     },
     {
       "id": "artes-022",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual artista pintou o teto da Capela Sistina?",
       "answer": "Michelangelo",
       "difficulty": "Fácil",
@@ -2099,7 +2099,7 @@
     },
     {
       "id": "artes-023",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual pintor espanhol é um dos principais nomes do Cubismo?",
       "answer": "Pablo Picasso",
       "difficulty": "Fácil",
@@ -2107,7 +2107,7 @@
     },
     {
       "id": "artes-024",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual artista brasileiro pintou a obra Operários?",
       "answer": "Tarsila do Amaral",
       "difficulty": "Fácil",
@@ -2115,7 +2115,7 @@
     },
     {
       "id": "artes-025",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Como é chamada a arte de representar imagens por meio de fotografias?",
       "answer": "Fotografia",
       "difficulty": "Fácil",
@@ -2123,7 +2123,7 @@
     },
     {
       "id": "artes-026",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual artista pintou diversos quadros da série Girassóis?",
       "answer": "Vincent van Gogh",
       "difficulty": "Fácil",
@@ -2131,7 +2131,7 @@
     },
     {
       "id": "artes-027",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual manifestação artística utiliza o corpo e movimentos como principal forma de expressão?",
       "answer": "Dança",
       "difficulty": "Fácil",
@@ -2139,7 +2139,7 @@
     },
     {
       "id": "artes-028",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual arte utiliza atores para representar personagens diante de um público?",
       "answer": "Teatro",
       "difficulty": "Fácil",
@@ -2147,7 +2147,7 @@
     },
     {
       "id": "artes-029",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual artista brasileiro pintou Café e Retirantes?",
       "answer": "Candido Portinari",
       "difficulty": "Média",
@@ -2155,7 +2155,7 @@
     },
     {
       "id": "artes-030",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual movimento artístico teve Claude Monet, Pierre-Auguste Renoir e Edgar Degas entre seus representantes?",
       "answer": "Impressionismo",
       "difficulty": "Média",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "artes-031",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual artista espanhol é conhecido por pinturas de relógios derretendo na obra A Persistência da Memória?",
       "answer": "Salvador Dalí",
       "difficulty": "Média",
@@ -2171,7 +2171,7 @@
     },
     {
       "id": "artes-032",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Como é chamada a técnica de gravura feita a partir de uma matriz de madeira?",
       "answer": "Xilogravura",
       "difficulty": "Média",
@@ -2179,7 +2179,7 @@
     },
     {
       "id": "artes-033",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual período artístico europeu ocorreu entre a Idade Média e a Idade Moderna e valorizou referências da Antiguidade clássica?",
       "answer": "Renascimento",
       "difficulty": "Média",
@@ -2187,7 +2187,7 @@
     },
     {
       "id": "artes-034",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual artista brasileiro ficou conhecido pelas esculturas dos Doze Profetas em Congonhas?",
       "answer": "Aleijadinho",
       "difficulty": "Média",
@@ -2195,7 +2195,7 @@
     },
     {
       "id": "artes-035",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual movimento artístico teve Salvador Dalí e René Magritte entre seus representantes?",
       "answer": "Surrealismo",
       "difficulty": "Média",
@@ -2203,7 +2203,7 @@
     },
     {
       "id": "artes-036",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual artista pintou a obra O Grito?",
       "answer": "Edvard Munch",
       "difficulty": "Difícil",
@@ -2211,7 +2211,7 @@
     },
     {
       "id": "artes-037",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual movimento artístico brasileiro ganhou destaque com a Semana de Arte Moderna de 1922?",
       "answer": "Modernismo",
       "difficulty": "Difícil",
@@ -2219,7 +2219,7 @@
     },
     {
       "id": "artes-038",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual estilo arquitetônico medieval é conhecido por grandes vitrais e arcos pontiagudos?",
       "answer": "Gótico",
       "difficulty": "Difícil",
@@ -2227,7 +2227,7 @@
     },
     {
       "id": "artes-039",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual movimento artístico do século XX buscava representar objetos por diferentes ângulos ao mesmo tempo?",
       "answer": "Cubismo",
       "difficulty": "Difícil",
@@ -2235,7 +2235,7 @@
     },
     {
       "id": "artes-040",
-      "category": "Artes",
+      "category": "Arte e Cultura",
       "question": "Qual escultor francês criou a obra O Pensador?",
       "answer": "Auguste Rodin",
       "difficulty": "Difícil",
@@ -2563,7 +2563,7 @@
     },
     {
       "id": "tecnologia-001",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "O que significa a sigla CPU em informática?",
       "answer": "Unidade Central de Processamento",
       "difficulty": "Fácil",
@@ -2571,7 +2571,7 @@
     },
     {
       "id": "tecnologia-002",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual dispositivo é usado para mover o ponteiro na tela de um computador?",
       "answer": "Mouse",
       "difficulty": "Fácil",
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "tecnologia-003",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Como se chama o programa usado para acessar páginas na internet?",
       "answer": "Navegador",
       "difficulty": "Fácil",
@@ -2587,7 +2587,7 @@
     },
     {
       "id": "tecnologia-004",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual sistema operacional móvel é desenvolvido pelo Google?",
       "answer": "Android",
       "difficulty": "Fácil",
@@ -2595,7 +2595,7 @@
     },
     {
       "id": "tecnologia-005",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual unidade equivale a 1024 bytes no uso binário tradicional?",
       "answer": "Quilobyte",
       "difficulty": "Fácil",
@@ -2603,7 +2603,7 @@
     },
     {
       "id": "tecnologia-006",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual linguagem é usada para estruturar o conteúdo de páginas web?",
       "answer": "HTML",
       "difficulty": "Fácil",
@@ -2611,7 +2611,7 @@
     },
     {
       "id": "tecnologia-007",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual tecnologia sem fio é frequentemente usada para conectar fones de ouvido a celulares?",
       "answer": "Bluetooth",
       "difficulty": "Fácil",
@@ -2619,7 +2619,7 @@
     },
     {
       "id": "tecnologia-008",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "O que significa a sigla USB?",
       "answer": "Barramento Serial Universal",
       "difficulty": "Fácil",
@@ -2627,7 +2627,7 @@
     },
     {
       "id": "tecnologia-009",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual componente armazena dados temporários para acesso rápido pelo processador?",
       "answer": "Memória RAM",
       "difficulty": "Fácil",
@@ -2635,7 +2635,7 @@
     },
     {
       "id": "tecnologia-010",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Como se chama uma cópia de segurança de dados?",
       "answer": "Backup",
       "difficulty": "Fácil",
@@ -2643,7 +2643,7 @@
     },
     {
       "id": "tecnologia-011",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual protocolo seguro é indicado pelo cadeado em endereços de sites?",
       "answer": "HTTPS",
       "difficulty": "Fácil",
@@ -2651,7 +2651,7 @@
     },
     {
       "id": "tecnologia-012",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual linguagem é usada principalmente para estilizar páginas web?",
       "answer": "CSS",
       "difficulty": "Fácil",
@@ -2659,7 +2659,7 @@
     },
     {
       "id": "tecnologia-013",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual empresa desenvolve o sistema operacional Windows?",
       "answer": "Microsoft",
       "difficulty": "Fácil",
@@ -2667,7 +2667,7 @@
     },
     {
       "id": "tecnologia-014",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Como se chama o software malicioso que exige pagamento para liberar arquivos bloqueados?",
       "answer": "Ransomware",
       "difficulty": "Fácil",
@@ -2675,7 +2675,7 @@
     },
     {
       "id": "tecnologia-015",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual componente converte sinais digitais em imagens exibidas no monitor, especialmente em tarefas gráficas?",
       "answer": "Placa de vídeo",
       "difficulty": "Média",
@@ -2683,7 +2683,7 @@
     },
     {
       "id": "tecnologia-016",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "O que significa a sigla URL?",
       "answer": "Localizador Uniforme de Recursos",
       "difficulty": "Média",
@@ -2691,7 +2691,7 @@
     },
     {
       "id": "tecnologia-017",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual sistema de controle de versão distribuído é amplamente usado no desenvolvimento de software?",
       "answer": "Git",
       "difficulty": "Média",
@@ -2699,7 +2699,7 @@
     },
     {
       "id": "tecnologia-018",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Como se chama a tentativa de enganar alguém para obter senhas ou dados por mensagens falsas?",
       "answer": "Phishing",
       "difficulty": "Média",
@@ -2707,7 +2707,7 @@
     },
     {
       "id": "tecnologia-019",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual linguagem de programação é conhecida pelo slogan write once, run anywhere?",
       "answer": "Java",
       "difficulty": "Média",
@@ -2715,7 +2715,7 @@
     },
     {
       "id": "tecnologia-020",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual serviço traduz nomes de domínio em endereços IP?",
       "answer": "DNS",
       "difficulty": "Média",
@@ -2723,7 +2723,7 @@
     },
     {
       "id": "tecnologia-021",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Como se chama a verificação de identidade que usa dois fatores diferentes?",
       "answer": "Autenticação de dois fatores",
       "difficulty": "Média",
@@ -2731,7 +2731,7 @@
     },
     {
       "id": "tecnologia-022",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual formato de dados baseado em texto utiliza pares de chave e valor e é comum em APIs?",
       "answer": "JSON",
       "difficulty": "Média",
@@ -2739,7 +2739,7 @@
     },
     {
       "id": "tecnologia-023",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "O que significa a sigla SSD?",
       "answer": "Unidade de Estado Sólido",
       "difficulty": "Média",
@@ -2747,7 +2747,7 @@
     },
     {
       "id": "tecnologia-024",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual estrutura de dados segue o princípio primeiro a entrar, primeiro a sair?",
       "answer": "Fila",
       "difficulty": "Média",
@@ -2755,7 +2755,7 @@
     },
     {
       "id": "tecnologia-025",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Como se chama o processo de encontrar e corrigir erros em um programa?",
       "answer": "Depuração",
       "difficulty": "Média",
@@ -2763,7 +2763,7 @@
     },
     {
       "id": "tecnologia-026",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual protocolo é usado para enviar e-mails entre servidores?",
       "answer": "SMTP",
       "difficulty": "Média",
@@ -2771,7 +2771,7 @@
     },
     {
       "id": "tecnologia-027",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual modelo de computação oferece recursos sob demanda pela internet?",
       "answer": "Computação em nuvem",
       "difficulty": "Média",
@@ -2779,7 +2779,7 @@
     },
     {
       "id": "tecnologia-028",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual algoritmo de criptografia assimétrica usa uma chave pública e outra privada e leva as iniciais de seus criadores?",
       "answer": "RSA",
       "difficulty": "Média",
@@ -2787,7 +2787,7 @@
     },
     {
       "id": "tecnologia-029",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Como se chama o endereço numérico que identifica um dispositivo em uma rede?",
       "answer": "Endereço IP",
       "difficulty": "Média",
@@ -2795,7 +2795,7 @@
     },
     {
       "id": "tecnologia-030",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual banco de dados relacional de código aberto tem como mascote um elefante?",
       "answer": "PostgreSQL",
       "difficulty": "Média",
@@ -2803,7 +2803,7 @@
     },
     {
       "id": "tecnologia-031",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual princípio de segurança concede apenas as permissões estritamente necessárias?",
       "answer": "Princípio do menor privilégio",
       "difficulty": "Difícil",
@@ -2811,7 +2811,7 @@
     },
     {
       "id": "tecnologia-032",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Como se chama a interface que permite a comunicação estruturada entre diferentes sistemas de software?",
       "answer": "API",
       "difficulty": "Difícil",
@@ -2819,7 +2819,7 @@
     },
     {
       "id": "tecnologia-033",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual arquitetura de processadores é dominante em smartphones por sua eficiência energética?",
       "answer": "ARM",
       "difficulty": "Difícil",
@@ -2827,7 +2827,7 @@
     },
     {
       "id": "tecnologia-034",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "O que é latência em uma rede?",
       "answer": "Tempo de atraso na transmissão",
       "difficulty": "Difícil",
@@ -2835,7 +2835,7 @@
     },
     {
       "id": "tecnologia-035",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual técnica distribui requisições entre vários servidores para evitar sobrecarga?",
       "answer": "Balanceamento de carga",
       "difficulty": "Difícil",
@@ -2843,7 +2843,7 @@
     },
     {
       "id": "tecnologia-036",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Como se chama um ambiente isolado que empacota uma aplicação e suas dependências?",
       "answer": "Contêiner",
       "difficulty": "Difícil",
@@ -2851,7 +2851,7 @@
     },
     {
       "id": "tecnologia-037",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual protocolo atribui automaticamente endereços IP a dispositivos em uma rede?",
       "answer": "DHCP",
       "difficulty": "Difícil",
@@ -2859,7 +2859,7 @@
     },
     {
       "id": "tecnologia-038",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual tipo de ataque sobrecarrega um serviço com tráfego vindo de várias origens?",
       "answer": "DDoS",
       "difficulty": "Difícil",
@@ -2867,7 +2867,7 @@
     },
     {
       "id": "tecnologia-039",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual paradigma organiza programas em objetos que combinam dados e comportamentos?",
       "answer": "Programação orientada a objetos",
       "difficulty": "Difícil",
@@ -2875,7 +2875,7 @@
     },
     {
       "id": "tecnologia-040",
-      "category": "Tecnologia",
+      "category": "Conhecimentos Gerais",
       "question": "Qual sistema numérico utiliza apenas os dígitos 0 e 1?",
       "answer": "Sistema binário",
       "difficulty": "Difícil",
@@ -2883,7 +2883,7 @@
     },
     {
       "id": "entretenimento-001",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual super-herói é a identidade secreta de Peter Parker?",
       "answer": "Homem-Aranha",
       "difficulty": "Fácil",
@@ -2891,7 +2891,7 @@
     },
     {
       "id": "entretenimento-002",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual série apresenta os personagens Eleven, Mike e Dustin?",
       "answer": "Stranger Things",
       "difficulty": "Fácil",
@@ -2899,7 +2899,7 @@
     },
     {
       "id": "entretenimento-003",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual personagem da Disney perde um sapatinho de cristal?",
       "answer": "Cinderela",
       "difficulty": "Fácil",
@@ -2907,7 +2907,7 @@
     },
     {
       "id": "entretenimento-004",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual série acompanha o professor de química Walter White?",
       "answer": "Breaking Bad",
       "difficulty": "Fácil",
@@ -2915,7 +2915,7 @@
     },
     {
       "id": "entretenimento-005",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual série apresenta as famílias Stark, Lannister e Targaryen?",
       "answer": "Game of Thrones",
       "difficulty": "Média",
@@ -2923,7 +2923,7 @@
     },
     {
       "id": "entretenimento-006",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual personagem fictício é conhecido por usar uma capa vermelha e ter como identidade Clark Kent?",
       "answer": "Superman",
       "difficulty": "Média",
@@ -2931,7 +2931,7 @@
     },
     {
       "id": "entretenimento-007",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual personagem da Nintendo é um encanador conhecido por usar boné vermelho?",
       "answer": "Mario",
       "difficulty": "Fácil",
@@ -2939,7 +2939,7 @@
     },
     {
       "id": "entretenimento-008",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual personagem amarelo dos Pokémon é conhecido por seus poderes elétricos?",
       "answer": "Pikachu",
       "difficulty": "Fácil",
@@ -2947,7 +2947,7 @@
     },
     {
       "id": "entretenimento-009",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual herói da Marvel utiliza uma armadura tecnológica criada por Tony Stark?",
       "answer": "Homem de Ferro",
       "difficulty": "Fácil",
@@ -2955,7 +2955,7 @@
     },
     {
       "id": "entretenimento-010",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual personagem é o melhor amigo de Bob Esponja e tem a forma de uma estrela-do-mar?",
       "answer": "Patrick Estrela",
       "difficulty": "Fácil",
@@ -2963,7 +2963,7 @@
     },
     {
       "id": "entretenimento-011",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual personagem da DC Comics é conhecido por sua grande velocidade?",
       "answer": "Flash",
       "difficulty": "Fácil",
@@ -2971,7 +2971,7 @@
     },
     {
       "id": "entretenimento-012",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual série apresenta os personagens Sheldon Cooper, Leonard, Penny, Howard e Raj?",
       "answer": "The Big Bang Theory",
       "difficulty": "Média",
@@ -2979,7 +2979,7 @@
     },
     {
       "id": "entretenimento-013",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual série de televisão acompanha seis amigos chamados Rachel, Ross, Monica, Chandler, Joey e Phoebe?",
       "answer": "Friends",
       "difficulty": "Média",
@@ -2987,7 +2987,7 @@
     },
     {
       "id": "entretenimento-014",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual jogo de tabuleiro tem como objetivo dar xeque-mate no rei adversário?",
       "answer": "Xadrez",
       "difficulty": "Fácil",
@@ -2995,7 +2995,7 @@
     },
     {
       "id": "entretenimento-015",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual personagem dos quadrinhos é a identidade secreta de Bruce Wayne?",
       "answer": "Batman",
       "difficulty": "Fácil",
@@ -3003,7 +3003,7 @@
     },
     {
       "id": "entretenimento-016",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Em qual série de jogos o jogador costuma controlar Link para salvar o reino de Hyrule?",
       "answer": "The Legend of Zelda",
       "difficulty": "Fácil",
@@ -3011,7 +3011,7 @@
     },
     {
       "id": "entretenimento-017",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual série animada acompanha a família formada por Homer, Marge, Bart, Lisa e Maggie?",
       "answer": "Os Simpsons",
       "difficulty": "Fácil",
@@ -3019,7 +3019,7 @@
     },
     {
       "id": "entretenimento-018",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual brinquedo de montar é formado por pequenos blocos plásticos encaixáveis?",
       "answer": "LEGO",
       "difficulty": "Fácil",
@@ -3027,7 +3027,7 @@
     },
     {
       "id": "entretenimento-019",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual heroína dos videogames é uma arqueóloga chamada Lara Croft?",
       "answer": "Tomb Raider",
       "difficulty": "Média",
@@ -3035,7 +3035,7 @@
     },
     {
       "id": "entretenimento-020",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual jogo utiliza peças com pontos que são ligadas por valores iguais?",
       "answer": "Dominó",
       "difficulty": "Média",
@@ -3043,7 +3043,7 @@
     },
     {
       "id": "entretenimento-021",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual personagem criado por Mauricio de Sousa é conhecido por carregar um coelho de pelúcia chamado Sansão?",
       "answer": "Mônica",
       "difficulty": "Média",
@@ -3051,7 +3051,7 @@
     },
     {
       "id": "entretenimento-022",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual série apresenta um grupo de sobreviventes durante um apocalipse zumbi e tem Rick Grimes como personagem central?",
       "answer": "The Walking Dead",
       "difficulty": "Média",
@@ -3059,7 +3059,7 @@
     },
     {
       "id": "entretenimento-023",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual jogo eletrônico coloca tripulantes contra impostores em uma nave espacial?",
       "answer": "Among Us",
       "difficulty": "Média",
@@ -3067,7 +3067,7 @@
     },
     {
       "id": "entretenimento-024",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual personagem dos quadrinhos brasileiros troca a letra R pela letra L ao falar?",
       "answer": "Cebolinha",
       "difficulty": "Média",
@@ -3075,7 +3075,7 @@
     },
     {
       "id": "entretenimento-025",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual franquia de videogames apresenta criaturas que podem ser capturadas em Poké Bolas?",
       "answer": "Pokémon",
       "difficulty": "Média",
@@ -3083,7 +3083,7 @@
     },
     {
       "id": "entretenimento-026",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual jogo de cartas tem como objetivo somar 21 pontos sem ultrapassar esse valor?",
       "answer": "Blackjack",
       "difficulty": "Média",
@@ -3091,7 +3091,7 @@
     },
     {
       "id": "entretenimento-027",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual série de fantasia acompanha o bruxo Geralt de Rívia?",
       "answer": "The Witcher",
       "difficulty": "Média",
@@ -3099,7 +3099,7 @@
     },
     {
       "id": "entretenimento-028",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual personagem dos games é um ouriço azul conhecido por sua velocidade?",
       "answer": "Sonic",
       "difficulty": "Média",
@@ -3107,7 +3107,7 @@
     },
     {
       "id": "entretenimento-029",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual reality show brasileiro mantém participantes confinados em uma casa vigiada por câmeras?",
       "answer": "Big Brother Brasil",
       "difficulty": "Média",
@@ -3115,7 +3115,7 @@
     },
     {
       "id": "entretenimento-030",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual jogo de tabuleiro envolve compra, venda e aluguel de propriedades?",
       "answer": "Banco Imobiliário",
       "difficulty": "Média",
@@ -3123,7 +3123,7 @@
     },
     {
       "id": "entretenimento-031",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual personagem de anime deseja se tornar Hokage da Vila da Folha?",
       "answer": "Naruto Uzumaki",
       "difficulty": "Difícil",
@@ -3131,7 +3131,7 @@
     },
     {
       "id": "entretenimento-032",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual série de ficção científica britânica acompanha um viajante do tempo conhecido como Doutor?",
       "answer": "Doctor Who",
       "difficulty": "Difícil",
@@ -3139,7 +3139,7 @@
     },
     {
       "id": "entretenimento-033",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual videogame permite construir com blocos e enfrentar criaturas como creepers?",
       "answer": "Minecraft",
       "difficulty": "Difícil",
@@ -3147,7 +3147,7 @@
     },
     {
       "id": "entretenimento-034",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual personagem da Turma da Mônica é conhecido por gostar muito de comida?",
       "answer": "Magali",
       "difficulty": "Difícil",
@@ -3155,7 +3155,7 @@
     },
     {
       "id": "entretenimento-035",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual jogo de cartas colecionáveis apresenta criaturas como o Dragão Branco de Olhos Azuis?",
       "answer": "Yu-Gi-Oh!",
       "difficulty": "Difícil",
@@ -3163,7 +3163,7 @@
     },
     {
       "id": "entretenimento-036",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual série acompanha os irmãos Sam e Dean Winchester caçando criaturas sobrenaturais?",
       "answer": "Supernatural",
       "difficulty": "Difícil",
@@ -3171,7 +3171,7 @@
     },
     {
       "id": "entretenimento-037",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual jogo de dedução envolve descobrir assassino, arma e local do crime?",
       "answer": "Detetive",
       "difficulty": "Difícil",
@@ -3179,7 +3179,7 @@
     },
     {
       "id": "entretenimento-038",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual anime acompanha Monkey D. Luffy em busca do tesouro que dá nome à série?",
       "answer": "One Piece",
       "difficulty": "Difícil",
@@ -3187,7 +3187,7 @@
     },
     {
       "id": "entretenimento-039",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual franquia de jogos apresenta o encanador Luigi como irmão de Mario?",
       "answer": "Super Mario",
       "difficulty": "Difícil",
@@ -3195,7 +3195,7 @@
     },
     {
       "id": "entretenimento-040",
-      "category": "Entretenimento",
+      "category": "Arte e Cultura",
       "question": "Qual personagem da DC Comics é também conhecida como Diana Prince?",
       "answer": "Mulher-Maravilha",
       "difficulty": "Difícil",
