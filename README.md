@@ -55,12 +55,12 @@ O projeto trata a FACERES como a primeira distribuição da plataforma JamQuest,
 ## Desenvolvimento
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm dev
 ```
 
 Para verificar o projeto:
 
 ```bash
-npm run check
+pnpm check
 ```
