@@ -36,6 +36,18 @@ if (!app) {
 
 const appRoot = app
 
+const THEME_ORDER = [
+  'História',
+  'Geografia',
+  'Arte e Cultura',
+  'Matemática',
+  'Ciências',
+  'Desafio',
+  'FACERES',
+  'Língua Portuguesa',
+  'Conhecimentos Gerais',
+] as const
+
 configureDatabase(distributionConfig.storage.databaseName)
 document.title = distributionConfig.productName
 document.documentElement.style.setProperty(
@@ -430,7 +442,13 @@ async function renderRoundStart(): Promise<void> {
 }
 
 async function renderThemeSelection(round: Round): Promise<void> {
-  const categories = await getCategoriesForRound(round.id)
+  const categories = (await getCategoriesForRound(round.id))
+    .filter((category) => THEME_ORDER.includes(category.category as never))
+    .sort(
+      (first, second) =>
+        THEME_ORDER.indexOf(first.category as never) -
+        THEME_ORDER.indexOf(second.category as never),
+    )
 
   appRoot.innerHTML = `
     <main class="round-start round-with-score theme-screen">
